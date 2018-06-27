@@ -1,0 +1,12 @@
+<templateSet group="AndroidXML">
+  <template name="shape" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;shape xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;&#10;    android:shape=&quot;rectangle&quot;&gt;&#10;    &lt;padding&#10;        android:top=&quot;2dp&quot;&#10;        android:bottom=&quot;2dp&quot;&#10;        android:left=&quot;4dp&quot;&#10;        android:right=&quot;4dp&quot; /&gt;&#10;    &lt;stroke&#10;        android:width=&quot;0.5dp&quot;&#10;        android:color=&quot;&quot; /&gt;&#10;&#10;    &lt;solid&#10;        android:color=&quot;&quot; /&gt;&#10;    &lt;corners&#10;        android:radius=&quot;2dp&quot; /&gt;&#10;&lt;/shape&gt;&#10;" description="shape" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="foreground" value="android:foreground=&quot;?attr/selectableItemBackground&quot;" description="foreground" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

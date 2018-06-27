@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="CodingPush" type="CLASS" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="content1" type="PLAIN_TEXT" />
+      <mapping pattern="web1" type="PLAIN_TEXT" />
+      <mapping pattern="dotted_line.xml" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+    </extensionMap>
+  </component>
+</application>

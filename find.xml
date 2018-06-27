@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.xmla</mask>
+      <mask>*.xm</mask>
+      <mask>*.jav</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.g</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradl</mask>
+      <mask>build.gradle</mask>
+      <mask>an</mask>
+      <mask>and</mask>
+      <mask>androi</mask>
+      <mask>android</mask>
+      <mask>AndroidManifest.xml</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.html</mask>
+      <mask>*.kt</mask>
+      <mask>*.kt,*.java</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>
