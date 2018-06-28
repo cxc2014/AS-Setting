@@ -823,7 +823,7 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="39" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529918644540">
+      <file name="/Dummy.txt" timestamp="1530153340399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="16" />
@@ -974,7 +974,12 @@
         <mark key="^" line="59" column="81" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530151376862" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530153360354">
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/drawable/cursor.xml" timestamp="1527294175727">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="26" />
@@ -1578,7 +1583,13 @@
         <mark key="." line="36" column="60" />
         <mark key="^" line="36" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" timestamp="1530151680008" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" timestamp="1530151874145">
+        <mark key="'" line="6" column="26" />
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseSupportActivity.kt" timestamp="1525940282641">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="7" />
@@ -1729,7 +1740,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="45" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson1/task6/src/Task.kt" />
       <jump line="35" column="30" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/Merge.java" />
       <jump line="669" column="17" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
       <jump line="993" column="0" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
@@ -1829,16 +1839,17 @@
       <jump line="62" column="12" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
       <jump line="47" column="34" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
+      <jump line="5" column="26" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">CiAgICAgICAgPEZyYW1lTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI2MGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JvdW5kX2ljb25fcGF0aCIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBjb2xvci9mb250X2JsYWNrIj4KCiAgICAgICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcHJvamVjdEljb24iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JvdW5kX2ljb25fcGF0aCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMWRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBjb2xvci9mb250X2JsYWNrIiAvPgoKICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjYwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZF9pY29uX21hc2siCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjFkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3Byb2plY3RfaWNvbl9lZGl0IiAvPgoKICAgICAgICA8L0ZyYW1lTGF5b3V0Pg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGltcGxlbWVudGF0aW9uICdjb20uYW5kcm9pZC5zdXBwb3J0LmNvbnN0cmFpbnQ6Y29uc3RyYWludC1sYXlvdXQ6KycKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>3.1.2</text>
       </register>
       <register name="-" type="4">
-        <text>style</text>
+        <text>3.1.2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFBlcnNvbg==</text>

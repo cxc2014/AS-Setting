@@ -1,9 +1,15 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta alt m" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -12,6 +18,7 @@
   <action id="ExpandRegionRecursively">
     <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
+  <action id="ExtractMethod" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta equals" />
