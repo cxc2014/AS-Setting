@@ -388,6 +388,11 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/bottom-bar/build.gradle" timestamp="1530153614800">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/AndroidManifest.xml" timestamp="1529030568790">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="33" />
@@ -974,7 +979,7 @@
         <mark key="^" line="59" column="81" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530153360354">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530153580460">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="42" column="7" />
         <mark key="^" line="42" column="7" />
@@ -1487,6 +1492,12 @@
         <mark key="^" line="55" column="7" />
         <mark key="." line="55" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/build.gradle" timestamp="1530153953735">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="6" />
+        <mark key="." line="80" column="6" />
+        <mark key="^" line="80" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseAccountActivity.java" timestamp="1526883877301">
         <mark key="[" line="80" column="44" />
         <mark key="]" line="80" column="44" />
@@ -1846,10 +1857,10 @@
         <text encoding="base64">CiAgICAgICAgPEZyYW1lTGF5b3V0CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI2MGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JvdW5kX2ljb25fcGF0aCIKICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBjb2xvci9mb250X2JsYWNrIj4KCiAgICAgICAgICAgIDxJbWFnZVZpZXcKICAgICAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcHJvamVjdEljb24iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iNjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNjBkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3JvdW5kX2ljb25fcGF0aCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMWRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpzcmM9IkBjb2xvci9mb250X2JsYWNrIiAvPgoKICAgICAgICAgICAgPEltYWdlVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjYwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjYwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9yb3VuZF9pY29uX21hc2siCiAgICAgICAgICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjFkcCIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6c2NhbGVUeXBlPSJjZW50ZXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnNyYz0iQGRyYXdhYmxlL2ljX3Byb2plY3RfaWNvbl9lZGl0IiAvPgoKICAgICAgICA8L0ZyYW1lTGF5b3V0Pg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3.1.2</text>
+        <text>implementation</text>
       </register>
       <register name="-" type="4">
-        <text>3.1.2</text>
+        <text>implementation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFBlcnNvbg==</text>
