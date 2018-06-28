@@ -844,7 +844,7 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="39" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530169545215">
+      <file name="/Dummy.txt" timestamp="1530170998508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -991,11 +991,11 @@
         <mark key="^" line="59" column="81" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530169985443">
-        <mark key="[" line="165" column="4" />
-        <mark key="]" line="117" column="29" />
-        <mark key="^" line="117" column="29" />
-        <mark key="." line="117" column="29" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530170719220">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="72" />
+        <mark key="^" line="40" column="71" />
+        <mark key="." line="40" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/drawable/cursor.xml" timestamp="1527294175727">
         <mark key="[" line="4" column="25" />
@@ -1903,10 +1903,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>compile</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>kapt</text>
