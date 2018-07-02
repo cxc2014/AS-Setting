@@ -416,6 +416,7 @@
         <mark key="." line="74" column="38" />
         <mark key="^" line="74" column="38" />
       </file>
+      <file name="/build.gradle" timestamp="1530505985527" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1529552120629">
         <mark key="[" line="224" column="26" />
         <mark key="]" line="224" column="44" />
@@ -551,6 +552,12 @@
         <mark key="]" line="23" column="37" />
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/build.gradle" timestamp="1530505007059">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_add_board.xml" timestamp="1524725282421">
         <mark key="[" line="16" column="29" />
@@ -847,10 +854,10 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="39" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530254067123">
+      <file name="/Dummy.txt" timestamp="1530506951347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/menu/common_edit.xml" timestamp="1522325180659">
         <mark key="[" line="4" column="0" />
@@ -994,11 +1001,12 @@
         <mark key="^" line="59" column="81" />
         <mark key="." line="62" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530180098676">
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="40" column="72" />
-        <mark key="^" line="40" column="71" />
-        <mark key="." line="40" column="72" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530506991766">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="254" column="5" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/drawable/cursor.xml" timestamp="1527294175727">
         <mark key="[" line="4" column="25" />
@@ -1162,6 +1170,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/app/src/main/java/com/example/chenchao/terminalbuild1/MainActivity.java" timestamp="1530504527924" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/push-xiaomi/build.gradle" timestamp="1530166279133">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="6" />
@@ -1405,6 +1414,11 @@
         <mark key="^" line="114" column="25" />
         <mark key="." line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/app/build.gradle" timestamp="1530504994786">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/HeadCommitObject.java" timestamp="1526631410127">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="17" column="7" />
@@ -1588,11 +1602,11 @@
         <mark key="." line="35" column="53" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/widget-pick-photo/build.gradle" timestamp="1530165846014">
-        <mark key="[" line="75" column="18" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/widget-pick-photo/build.gradle" timestamp="1530505941021">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/user/EnterpriseAddMemberActivity.java" timestamp="1528278963218">
         <mark key="[" line="171" column="71" />
@@ -1641,6 +1655,11 @@
         <mark key="]" line="36" column="70" />
         <mark key="." line="36" column="60" />
         <mark key="^" line="36" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" timestamp="1530505371549">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseSupportActivity.kt" timestamp="1525940282641">
         <mark key="[" line="18" column="8" />
@@ -1797,7 +1816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="30" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/Merge.java" />
       <jump line="669" column="17" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
       <jump line="993" column="0" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
       <jump line="95" column="23" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
@@ -1897,49 +1915,57 @@
       <jump line="98" column="0" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
       <jump line="47" column="34" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
       <jump line="5" column="26" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" />
+      <jump line="146" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC42LWFsbC56aXAK</text>
+        <text encoding="base64">Ly8g5aW95YOP5Y+vCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>javaCompileOptions</text>
       </register>
       <register name="/" type="4">
-        <text>kapt</text>
+        <text>anno</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC40LWFsbC56aXAK</text>
+      <register name="0" type="4">
+        <text>javaCompileOptions {
+            annotationProcessorOptions {
+                // coding 和 coding 企业版 必须使用相同的包名，否则 androidannotations 生成代码会失败
+                arguments = [resourcePackageName : &quot;net.coding.program&quot;]
+//                             &quot;logLevel&quot;          : &quot;TRACE&quot;, // 打印更多 log，AA 生成错误会导致几百个编译错误
+//                             &quot;logAppenderConsole&quot;: &quot;true&quot;]
+            }
+        }</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC42LWFsbC56aXAK</text>
+        <text encoding="base64">Ly8g5aW95YOP5Y+vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBhbGwqLmV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC12MTMnCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsb2dBcHBlbmRlckNvbnNvbGUiOiAidHJ1ZSJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICJsb2dMZXZlbCIgICAgICAgICAgOiAiVFJBQ0UiLCAvLyDmiZPljbDmm7TlpJogbG9n77yMQUEg55Sf5oiQ6ZSZ6K+v5Lya5a+86Ie05Yeg55m+5Liq57yW6K+R6ZSZ6K+vCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IC8vIOe9kee7nOivt+axggogICAgYXBpICdjb20uc3F1YXJldXAucmV0cm9maXQyOnJldHJvZml0OjIuMS4wJwogICAgYXBpICdjb20uc3F1YXJldXAub2todHRwMzpsb2dnaW5nLWludGVyY2VwdG9yOjMuNS4wJwogICAgYXBpICdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOjIuOC4wJwogICAgYXBpICdjb20uc3F1YXJldXAucmV0cm9maXQyOmFkYXB0ZXItcnhqYXZhOjIuMC4yJwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwOjMuNS4wJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvZGluZyDlkowgY29kaW5nIOS8geS4mueJiCDlv4Xpobvkvb/nlKjnm7jlkIznmoTljIXlkI3vvIzlkKbliJkgYW5kcm9pZGFubm90YXRpb25zIOeUn+aIkOS7o+eggeS8muWksei0pQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4amF2YToxLjAuMTQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGlvblByb2Nlc3Nvck9wdGlvbnMgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1954,19 +1980,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4YW5kcm9pZDoxLjAuMScK</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC42LWFsbC56aXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLnJldHJvZml0Mjpjb252ZXJ0ZXItZ3NvbjoyLjIuMCcK</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBhbGwqLmV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC12MTMnCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kapt</last-search>
+      <last-search>anno</last-search>
       <last-offset />
-      <last-pattern>kapt</last-pattern>
+      <last-pattern>anno</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mImgBtn</last-substitute>
       <last-dir>1</last-dir>
@@ -1974,8 +2000,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BottomName</entry>
-        <entry>des</entry>
         <entry>AAVersion</entry>
         <entry>mImgBtn</entry>
         <entry>AUG</entry>
@@ -1994,6 +2018,8 @@
         <entry encoding="base64">PE15QQ==</entry>
         <entry encoding="base64">PFBlcnNvbg==</entry>
         <entry>kapt</entry>
+        <entry>annon</entry>
+        <entry>anno</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
