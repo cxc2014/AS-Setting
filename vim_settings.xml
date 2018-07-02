@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragmentMain.java" timestamp="1529043914130">
@@ -480,6 +480,11 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle/wrapper/gradle-wrapper.properties" timestamp="1530500512639">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/task_list_item_dynamic.xml" timestamp="1523931279735">
         <mark key="[" line="70" column="56" />
@@ -1897,44 +1902,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC42LWFsbC56aXAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>kapt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpjb21tb24tdGhpcmQtbGlicmFyeScpCg==</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC40LWFsbC56aXAK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBhbGwqLmV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC12MTMnCiAgICB9Cgo=</text>
+        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNC42LWFsbC56aXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zIHsKICAgICAgICBhbGwqLmV4Y2x1ZGUgZ3JvdXA6ICdjb20uYW5kcm9pZC5zdXBwb3J0JywgbW9kdWxlOiAnc3VwcG9ydC12MTMnCiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IC8vIOe9kee7nOivt+axggogICAgYXBpICdjb20uc3F1YXJldXAucmV0cm9maXQyOnJldHJvZml0OjIuMS4wJwogICAgYXBpICdjb20uc3F1YXJldXAub2todHRwMzpsb2dnaW5nLWludGVyY2VwdG9yOjMuNS4wJwogICAgYXBpICdjb20uZ29vZ2xlLmNvZGUuZ3Nvbjpnc29uOjIuOC4wJwogICAgYXBpICdjb20uc3F1YXJldXAucmV0cm9maXQyOmFkYXB0ZXItcnhqYXZhOjIuMC4yJwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLm9raHR0cDM6b2todHRwOjMuNS4wJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4amF2YToxLjAuMTQnCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4YW5kcm9pZDoxLjAuMScK</text>
+        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4amF2YToxLjAuMTQnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1949,10 +1954,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLnJldHJvZml0Mjpjb252ZXJ0ZXItZ3NvbjoyLjIuMCcK</text>
+        <text encoding="base64">ICAgIGFwaSAnaW8ucmVhY3RpdmV4OnJ4YW5kcm9pZDoxLjAuMScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaSAnY29tLnNxdWFyZXVwLnJldHJvZml0Mjpjb252ZXJ0ZXItZ3NvbjoyLjIuMCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
