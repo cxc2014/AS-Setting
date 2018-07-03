@@ -175,10 +175,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1530513866570">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1530598912284">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/strings_array.xml" timestamp="1529570136103">
         <mark key="[" line="68" column="14" />
@@ -391,7 +392,6 @@
         <mark key="." line="136" column="104" />
         <mark key="^" line="41" column="53" />
       </file>
-      <file name="/.gitignore" timestamp="1530514413292" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsActivity.java" timestamp="1528266123782">
         <mark key="[" line="1689" column="11" />
         <mark key="]" line="1689" column="16" />
@@ -426,7 +426,6 @@
         <mark key="." line="74" column="38" />
         <mark key="^" line="74" column="38" />
       </file>
-      <file name="/build.gradle" timestamp="1530505985527" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1529552120629">
         <mark key="[" line="224" column="26" />
         <mark key="]" line="224" column="44" />
@@ -493,9 +492,9 @@
         <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle/wrapper/gradle-wrapper.properties" timestamp="1530522815371">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/task_list_item_dynamic.xml" timestamp="1523931279735">
         <mark key="[" line="70" column="56" />
@@ -747,7 +746,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/androidTest/java/net/coding/program/common/ExampleInstrumentedTest.java" timestamp="1530512735915" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TopicAddActivity.java" timestamp="1529375358221">
         <mark key="[" line="32" column="71" />
         <mark key="]" line="32" column="71" />
@@ -871,7 +869,7 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="39" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530522805042">
+      <file name="/Dummy.txt" timestamp="1530598792271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="22" />
@@ -1187,7 +1185,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/app/src/main/java/com/example/chenchao/terminalbuild1/MainActivity.java" timestamp="1530504527924" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/push-xiaomi/build.gradle" timestamp="1530166279133">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="6" />
@@ -1939,10 +1936,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AE6DQ4C5G35G</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>AE6DQ4C5G35G</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
