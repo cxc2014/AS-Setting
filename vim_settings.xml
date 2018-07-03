@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragmentMain.java" timestamp="1529043914130">
@@ -175,11 +175,12 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1530598912284">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1530603139562">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/strings_array.xml" timestamp="1529570136103">
         <mark key="[" line="68" column="14" />
@@ -869,7 +870,7 @@
         <mark key="^" line="39" column="52" />
         <mark key="." line="39" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530601233216">
+      <file name="/Dummy.txt" timestamp="1530603049828">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="22" />
@@ -1830,8 +1831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="17" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
-      <jump line="993" column="0" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
       <jump line="95" column="23" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" />
       <jump line="12" column="24" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson2/task4/src/MyDate.kt" />
       <jump line="7" column="17" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson2/task4/src/MyDate.kt" />
@@ -1930,13 +1929,15 @@
       <jump line="47" column="34" filename="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" />
       <jump line="5" column="26" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" />
       <jump line="146" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">S0VZU1RPUkVfUEFUSD0uLi9pbXBvcnRhbnQvY29kaW5nLmprcwo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1951,28 +1952,28 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">S0VZU1RPUkVfUEFUSD0uLi9pbXBvcnRhbnQvY29kaW5nLmprcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciAiYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdFJ1bm5lciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29tbW9uLXRoaXJkLWxpYnJhcnkvbGlicy8KY29tbW9uLXRoaXJkLWxpYnJhcnkvc3JjL21haW4vamF2YS8KY29tbW9uLXRoaXJkLWxpYnJhcnkvc3JjL21haW4vcmVzL2RyYXdhYmxlLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdEluc3RydW1lbnRhdGlvblJ1bm5lciAiYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdFJ1bm5lciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a290bGluLmluY3JlbWVudGFsPWZhbHNlCgpvcmcuZ3JhZGxlLmRhZW1vbj1mYWxzZQpvcmcuZ3JhZGxlLnBhcmFsbGVsPWZhbHNlCg==</text>
+        <text encoding="base64">Y29tbW9uLXRoaXJkLWxpYnJhcnkvbGlicy8KY29tbW9uLXRoaXJkLWxpYnJhcnkvc3JjL21haW4vamF2YS8KY29tbW9uLXRoaXJkLWxpYnJhcnkvc3JjL21haW4vcmVzL2RyYXdhYmxlLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgYW5kcm9pZFRlc3RBcGkgImNvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOiRlc3ByZXNzb1ZlcnNpb24iCgo=</text>
+        <text encoding="base64">a290bGluLmluY3JlbWVudGFsPWZhbHNlCgpvcmcuZ3JhZGxlLmRhZW1vbj1mYWxzZQpvcmcuZ3JhZGxlLnBhcmFsbGVsPWZhbHNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvLyDmtYvor5XmoYbmnrYKLy8gICAgYXBpICJjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtYW5ub3RhdGlvbnM6JHN1cHBvcnRWZXJzaW9uIgovLyAgICBhbmRyb2lkVGVzdEFwaSAiY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjokcnVubmVyVmVyc2lvbiIKLy8gICAgYW5kcm9pZFRlc3RBcGkgImNvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydWxlczokcnVsZXNWZXJzaW9uIgo=</text>
+        <text encoding="base64">Ly8gICAgYW5kcm9pZFRlc3RBcGkgImNvbS5hbmRyb2lkLnN1cHBvcnQudGVzdC5lc3ByZXNzbzplc3ByZXNzby1jb3JlOiRlc3ByZXNzb1ZlcnNpb24iCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvLyDmtYvor5XmoYbmnrYKLy8gICAgYXBpICJjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtYW5ub3RhdGlvbnM6JHN1cHBvcnRWZXJzaW9uIgovLyAgICBhbmRyb2lkVGVzdEFwaSAiY29tLmFuZHJvaWQuc3VwcG9ydC50ZXN0OnJ1bm5lcjokcnVubmVyVmVyc2lvbiIKLy8gICAgYW5kcm9pZFRlc3RBcGkgImNvbS5hbmRyb2lkLnN1cHBvcnQudGVzdDpydWxlczokcnVsZXNWZXJzaW9uIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1987,10 +1988,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2EK</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
