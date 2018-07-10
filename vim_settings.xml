@@ -38,6 +38,7 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/ProjectObject.java" timestamp="1531203421382" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/FileListHeadItem.java" timestamp="1528181473006">
         <mark key="[" line="151" column="45" />
         <mark key="]" line="151" column="45" />
@@ -73,12 +74,6 @@
         <mark key="]" line="8" column="23" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_set.xml" timestamp="1531193661597">
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="52" column="66" />
-        <mark key="." line="52" column="66" />
-        <mark key="^" line="52" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/Android-Source-Study/app/src/main/java/study/android/chenchao/info/android_source_study/MainActivity.kt" timestamp="1523534388600">
         <mark key="[" line="15" column="49" />
@@ -405,13 +400,6 @@
         <mark key="^" line="1689" column="16" />
         <mark key="." line="1689" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_home_list_head_head.xml" timestamp="1531193764107">
-        <mark key="'" line="71" column="33" />
-        <mark key="[" line="67" column="40" />
-        <mark key="]" line="67" column="41" />
-        <mark key="." line="67" column="41" />
-        <mark key="^" line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/BaseProjectHomeFragment.java" timestamp="1525941065042">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -424,12 +412,7 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_all_list_item.xml" timestamp="1531193676109">
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="40" column="32" />
-        <mark key="." line="40" column="32" />
-        <mark key="^" line="41" column="33" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_all_list_item.xml" timestamp="1531193676109" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/bottom-bar/build.gradle" timestamp="1530153614800">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -606,6 +589,11 @@
         <mark key="." line="41" column="11" />
         <mark key="^" line="75" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/MembersListFragment.java" timestamp="1531203291252">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/gradle.properties" timestamp="1523351005174">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="17" />
@@ -778,11 +766,6 @@
         <mark key="]" line="32" column="71" />
         <mark key="^" line="79" column="33" />
         <mark key="." line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/team_project_list_item.xml" timestamp="1531193716002">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/init_activity_project_archive.xml" timestamp="1525254729486">
         <mark key="[" line="32" column="34" />
@@ -1977,8 +1960,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>@color/font_3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>@color/font_3</text>
@@ -1993,28 +1976,28 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdHJva2VDb2xvcj0iQGNvbG9yL2ZvbnRfMyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdHJva2VDb2xvcj0iQGNvbG9yL2ZvbnRfMyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxwYXRoIGFuZHJvaWQ6ZmlsbENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6cGF0aERhdGE9Im0zMS42LDI2LjdxMCwtMiAtMS40LC0zLjR0LTMuNCwtMS40cS0xLjksMCAtMy4yLDEuM2wtNS40LC0yLjdxMCwtMC4zIDAsLTAuNXQwLC0wLjVsNS40LC0yLjdxMS4zLDEuMyAzLjIsMS4zIDIsMCAzLjQsLTEuNHQxLjQsLTMuNCAtMS40LC0zLjMgLTMuNCwtMS40IC0zLjQsMS40IC0xLjQsMy4zcTAsMC4yIDAuMSwwLjVsLTUuNCwyLjdxLTEuNCwtMS4zIC0zLjIsLTEuMyAtMiwwIC0zLjQsMS40dC0xLjQsMy40IDEuNCwzLjQgMy40LDEuNHExLjgsMCAzLjIsLTEuM2w1LjQsMi43cS0wLjEsMC4zIC0wLjEsMC41IDAsMS45IDEuNCwzLjN0My40LDEuNCAzLjQsLTEuNCAxLjQsLTMuM3pNMzcuMyw5LjN2MjEuNHEwLDIuNyAtMS45LDQuNnQtNC41LDEuOGgtMjEuNXEtMi42LDAgLTQuNSwtMS44dC0xLjksLTQuNnYtMjEuNHEwLC0yLjcgMS45LC00LjZ0NC41LC0xLjhoMjEuNXEyLjYsMCA0LjUsMS44dDEuOSw0LjZ6Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2029,10 +2012,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwYXRoIGFuZHJvaWQ6ZmlsbENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6cGF0aERhdGE9Im0zMS42IDI2LjdxMC0yLTEuNC0zLjR0LTMuNC0xLjRxLTEuOSAwLTMuMiAxLjNsLTUuNC0yLjdxMC0wLjMgMC0wLjV0MC0wLjVsNS40LTIuN3ExLjMgMS4zIDMuMiAxLjMgMiAwIDMuNC0xLjR0MS40LTMuNC0xLjQtMy4zLTMuNC0xLjQtMy40IDEuNC0xLjQgMy4zcTAgMC4yIDAuMSAwLjVsLTUuNCAyLjdxLTEuNC0xLjMtMy4yLTEuMy0yIDAtMy40IDEuNHQtMS40IDMuNCAxLjQgMy40IDMuNCAxLjRxMS44IDAgMy4yLTEuM2w1LjQgMi43cS0wLjEgMC4zLTAuMSAwLjUgMCAxLjkgMS40IDMuM3QzLjQgMS40IDMuNC0xLjQgMS40LTMuM3ogbTUuNy0xNy40djIxLjRxMCAyLjctMS45IDQuNnQtNC41IDEuOGgtMjEuNXEtMi42IDAtNC41LTEuOHQtMS45LTQuNnYtMjEuNHEwLTIuNyAxLjktNC42dDQuNS0xLjhoMjEuNXEyLjYgMCA0LjUgMS44dDEuOSA0LjZ6Ij48L3BhdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwYXRoIGFuZHJvaWQ6ZmlsbENvbG9yPSJjdXJyZW50Q29sb3IiIGFuZHJvaWQ6cGF0aERhdGE9Im0zMS42LDI2LjdxMCwtMiAtMS40LC0zLjR0LTMuNCwtMS40cS0xLjksMCAtMy4yLDEuM2wtNS40LC0yLjdxMCwtMC4zIDAsLTAuNXQwLC0wLjVsNS40LC0yLjdxMS4zLDEuMyAzLjIsMS4zIDIsMCAzLjQsLTEuNHQxLjQsLTMuNCAtMS40LC0zLjMgLTMuNCwtMS40IC0zLjQsMS40IC0xLjQsMy4zcTAsMC4yIDAuMSwwLjVsLTUuNCwyLjdxLTEuNCwtMS4zIC0zLjIsLTEuMyAtMiwwIC0zLjQsMS40dC0xLjQsMy40IDEuNCwzLjQgMy40LDEuNHExLjgsMCAzLjIsLTEuM2w1LjQsMi43cS0wLjEsMC4zIC0wLjEsMC41IDAsMS45IDEuNCwzLjN0My40LDEuNCAzLjQsLTEuNCAxLjQsLTMuM3pNMzcuMyw5LjN2MjEuNHEwLDIuNyAtMS45LDQuNnQtNC41LDEuOGgtMjEuNXEtMi42LDAgLTQuNSwtMS44dC0xLjksLTQuNnYtMjEuNHEwLC0yLjcgMS45LC00LjZ0NC41LC0xLjhoMjEuNXEyLjYsMCA0LjUsMS44dDEuOSw0LjZ6Ii8+Cg==</text>
+        <text encoding="base64">ICAgIDxwYXRoIGFuZHJvaWQ6ZmlsbENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6cGF0aERhdGE9Im0zMS42LDI2LjdxMCwtMiAtMS40LC0zLjR0LTMuNCwtMS40cS0xLjksMCAtMy4yLDEuM2wtNS40LC0yLjdxMCwtMC4zIDAsLTAuNXQwLC0wLjVsNS40LC0yLjdxMS4zLDEuMyAzLjIsMS4zIDIsMCAzLjQsLTEuNHQxLjQsLTMuNCAtMS40LC0zLjMgLTMuNCwtMS40IC0zLjQsMS40IC0xLjQsMy4zcTAsMC4yIDAuMSwwLjVsLTUuNCwyLjdxLTEuNCwtMS4zIC0zLjIsLTEuMyAtMiwwIC0zLjQsMS40dC0xLjQsMy40IDEuNCwzLjQgMy40LDEuNHExLjgsMCAzLjIsLTEuM2w1LjQsMi43cS0wLjEsMC4zIC0wLjEsMC41IDAsMS45IDEuNCwzLjN0My40LDEuNCAzLjQsLTEuNCAxLjQsLTMuM3pNMzcuMyw5LjN2MjEuNHEwLDIuNyAtMS45LDQuNnQtNC41LDEuOGgtMjEuNXEtMi42LDAgLTQuNSwtMS44dC0xLjksLTQuNnYtMjEuNHEwLC0yLjcgMS45LC00LjZ0NC41LC0xLjhoMjEuNXEyLjYsMCA0LjUsMS44dDEuOSw0LjZ6Ii8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
