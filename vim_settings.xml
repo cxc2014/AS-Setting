@@ -3,416 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragmentMain.java" timestamp="1529043914130">
-        <mark key="[" line="316" column="39" />
-        <mark key="]" line="317" column="21" />
-        <mark key="." line="317" column="21" />
-        <mark key="^" line="317" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/ui/PopCaptchaDialog.java" timestamp="1525330966868">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="96" column="55" />
-        <mark key="." line="125" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/github/android-testing/ui/espresso/BasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/ChangeTextBehaviorTest.java" timestamp="1524206009868">
-        <mark key="[" line="87" column="85" />
-        <mark key="]" line="87" column="85" />
-        <mark key="^" line="87" column="85" />
-        <mark key="." line="87" column="85" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/person/java/net/coding/program/compatible/CodingCompatImp.java" timestamp="1528874038783">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="11" />
         <mark key="." line="36" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_git_main.xml" timestamp="1523242078211">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/ProjectObject.java" timestamp="1531204490803">
+        <mark key="[" line="152" column="42" />
+        <mark key="]" line="152" column="42" />
+        <mark key="^" line="152" column="42" />
+        <mark key="." line="152" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_set.xml" timestamp="1531205423832">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventAddBoardList.java" timestamp="1524726012633">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/ProjectObject.java" timestamp="1531203421382" />
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/FileListHeadItem.java" timestamp="1528181473006">
-        <mark key="[" line="151" column="45" />
-        <mark key="]" line="151" column="45" />
-        <mark key="^" line="151" column="45" />
-        <mark key="." line="151" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/git/local/GitMainActivity.java" timestamp="1523267338693">
-        <mark key="[" line="288" column="28" />
-        <mark key="]" line="288" column="28" />
-        <mark key="." line="288" column="28" />
-        <mark key="^" line="292" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/FileListHeadItem3.java" timestamp="1528182971743">
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="43" />
-        <mark key="." line="108" column="43" />
-        <mark key="^" line="108" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/AttachmentFolderObject.java" timestamp="1528274780909">
-        <mark key="[" line="81" column="38" />
-        <mark key="]" line="81" column="39" />
-        <mark key="." line="81" column="39" />
-        <mark key="^" line="81" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/project/EnterpriseProjectHomeFragment.java" timestamp="1528356950751">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/assets/markdown.html" timestamp="1527312375938">
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="23" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Android-Source-Study/app/src/main/java/study/android/chenchao/info/android_source_study/MainActivity.kt" timestamp="1523534388600">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/message/NotifyListActivity.java" timestamp="1529056749440">
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
-        <mark key="^" line="382" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/add/TaskParams.java" timestamp="1525177037404">
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/util/BlankViewHelp.java" timestamp="1528179409174">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="48" />
-        <mark key="^" line="25" column="48" />
-        <mark key="." line="25" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/task_attr_item.xml" timestamp="1529551990677">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="38" column="42" />
-        <mark key="^" line="38" column="42" />
-        <mark key="." line="38" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/push-coding/src/main/java/net/coding/program/push/CodingPush.kt" timestamp="1524192607056">
-        <mark key="[" line="66" column="22" />
-        <mark key="]" line="66" column="23" />
-        <mark key="^" line="66" column="23" />
-        <mark key="." line="66" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_merge_detail.xml" timestamp="1529480089846">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_about.xml" timestamp="1525940031369">
-        <mark key="[" line="117" column="37" />
-        <mark key="]" line="122" column="26" />
-        <mark key="." line="122" column="26" />
-        <mark key="^" line="120" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/studysss/CodingAndroidNetwork/app/build.gradle" timestamp="1522825807856">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="36" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/git/EditCodeFragment.java" timestamp="1528790083342">
-        <mark key="[" line="38" column="52" />
-        <mark key="]" line="37" column="93" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectAdvanceSetBaseActivity.java" timestamp="1525254935422">
-        <mark key="[" line="151" column="35" />
-        <mark key="]" line="151" column="34" />
-        <mark key="." line="151" column="34" />
-        <mark key="^" line="151" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_enterprise_guide.xml" timestamp="1526457371646">
-        <mark key="[" line="161" column="36" />
-        <mark key="]" line="161" column="41" />
-        <mark key="." line="161" column="41" />
-        <mark key="^" line="161" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/PrivateProjectHomeFragment.java" timestamp="1528356937459">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="35" column="34" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/app/src/main/res/menu/main3.xml" timestamp="1529660428701">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_maopao_detail_head.xml" timestamp="1529551382560">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/SourceActivity.java" timestamp="1529049825598">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="112" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/values/strings_array.xml" timestamp="1529570512839">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1530603139562">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/strings_array.xml" timestamp="1529570136103">
-        <mark key="[" line="68" column="14" />
-        <mark key="]" line="68" column="14" />
-        <mark key="^" line="146" column="24" />
-        <mark key="." line="68" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/code/ResourceReference.java" timestamp="1522736952099">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="21" />
-        <mark key="^" line="35" column="21" />
-        <mark key="." line="35" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/compatible/ClassCompatInterface.java" timestamp="1528874023053">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="58" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/board/PickTaskBoardActivity.java" timestamp="1528794333198">
-        <mark key="[" line="60" column="55" />
-        <mark key="]" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="^" line="61" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/GlobalData.java" timestamp="1526969090555">
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="54" column="62" />
-        <mark key="." line="54" column="62" />
-        <mark key="^" line="54" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/CustomWebViewClientOpenNew.java" timestamp="1527305539442">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/res/layout/activity_handler.xml" timestamp="1523585873488">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/terminal-coding/build.gradle" timestamp="1530166304747">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/project/EnterpriseProjectFragment.java" timestamp="1529899503074">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="45" />
-        <mark key="^" line="167" column="98" />
-        <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsDownloadDetailActivity.java" timestamp="1528192882715">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="371" column="83" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/maopao/MaopaoListBaseFragment.java" timestamp="1523239294153">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="57" />
-        <mark key="^" line="448" column="7" />
-        <mark key="." line="444" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/CodingGlobal.java" timestamp="1529050246403">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="55" />
-        <mark key="^" line="29" column="82" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-third-library/build.gradle" timestamp="1530513144863">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="27" />
-        <mark key="^" line="39" column="6" />
-        <mark key="." line="39" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/build.gradle" timestamp="1523585432957">
-        <mark key="[" line="37" column="54" />
-        <mark key="]" line="37" column="55" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="37" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/ProjectMergeFragment.java" timestamp="1529478873816">
-        <mark key="[" line="116" column="37" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="118" column="7" />
-        <mark key="." line="118" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventBoardRefreshRequest.java" timestamp="1524818977706">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectAdvanceSetBaseActivity.java" timestamp="1531209251090">
+        <mark key="[" line="110" column="18" />
+        <mark key="]" line="110" column="18" />
+        <mark key="." line="110" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/user/UsersListActivity.java" timestamp="1528879570575">
         <mark key="[" line="182" column="27" />
         <mark key="]" line="182" column="27" />
         <mark key="." line="182" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/app/src/main/res/layout/activity_main2.xml" timestamp="1529660686999">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/add/RefResourceActivity.java" timestamp="1527132588425">
-        <mark key="[" line="106" column="30" />
-        <mark key="]" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectActivity.java" timestamp="1529553127242">
-        <mark key="[" line="68" column="54" />
-        <mark key="]" line="68" column="54" />
-        <mark key="^" line="68" column="53" />
-        <mark key="." line="68" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/v2/ProjectSetFragmentBase.java" timestamp="1529027674956">
-        <mark key="[" line="104" column="59" />
-        <mark key="]" line="104" column="59" />
-        <mark key="^" line="104" column="43" />
-        <mark key="." line="104" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/list_item_project_maopao.xml" timestamp="1529372952822">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/enterprise_add_member_list_item.xml" timestamp="1528278983778">
-        <mark key="[" line="27" column="32" />
-        <mark key="]" line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/task/Board.java" timestamp="1524660097351">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="56" />
-        <mark key="^" line="36" column="56" />
-        <mark key="." line="36" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/adapter/SearchMergeAdapter.java" timestamp="1525674929925">
-        <mark key="[" line="54" column="114" />
-        <mark key="]" line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/res/values/colors.xml" timestamp="1529052933962">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/test/java/net/coding/program/common/ExampleUnitTest.java" timestamp="1530512695124">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/user/ProvincesPickerDialog.java" timestamp="1529477412717">
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="^" line="172" column="26" />
-        <mark key="." line="166" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/MenuProjectFragment.java" timestamp="1528883350395">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/ProjectObject.java" timestamp="1525255564993">
-        <mark key="[" line="377" column="88" />
-        <mark key="]" line="377" column="88" />
-        <mark key="^" line="377" column="88" />
-        <mark key="." line="377" column="88" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_home_list_head_head.xml" timestamp="1531205745052">
+        <mark key="[" line="71" column="42" />
+        <mark key="]" line="71" column="42" />
+        <mark key="." line="71" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_maopao_list_item.xml" timestamp="1528079337489">
-        <mark key="[" line="73" column="61" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="31" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" timestamp="1531205289283">
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/studysss/CodingAndroidNetwork/app/src/main/java/android/coding/net/codingandroidnetwork/MainActivity.java" timestamp="1522826035973">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_all_list_item.xml" timestamp="1531205792116">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="40" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TaskFilterFragment.java" timestamp="1525849798539">
-        <mark key="[" line="34" column="80" />
-        <mark key="]" line="34" column="80" />
-        <mark key="." line="34" column="80" />
-        <mark key="^" line="33" column="83" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/common_name.xml" timestamp="1529574673053">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/res/layout/empty_view.xml" timestamp="1522292458939">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/strings.xml" timestamp="1529396427241">
-        <mark key="[" line="136" column="104" />
-        <mark key="]" line="136" column="104" />
-        <mark key="." line="136" column="104" />
-        <mark key="^" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsActivity.java" timestamp="1528266123782">
-        <mark key="[" line="1689" column="11" />
-        <mark key="]" line="1689" column="16" />
-        <mark key="^" line="1689" column="16" />
-        <mark key="." line="1689" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/BaseProjectHomeFragment.java" timestamp="1525941065042">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="37" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/java/net/coding/mart/activity/reward/PublishRewardActivity.java" timestamp="1523521728758">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_all_list_item.xml" timestamp="1531193676109" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/bottom-bar/build.gradle" timestamp="1530153614800">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="4" />
@@ -429,987 +86,115 @@
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/third/MyPagerSlidingTabStrip.java" timestamp="1529570650953">
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="74" column="38" />
-        <mark key="." line="74" column="38" />
-        <mark key="^" line="74" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1529552120629">
-        <mark key="[" line="224" column="26" />
-        <mark key="]" line="224" column="44" />
-        <mark key="." line="224" column="44" />
-        <mark key="^" line="224" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/git_list_item.xml" timestamp="1523051141355">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/file/Share.java" timestamp="1528170768045">
-        <mark key="[" line="28" column="11" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/java/net/coding/mart/MartApplication.java" timestamp="1523344758729">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/git/local/CloneCodeService.java" timestamp="1523237497512">
-        <mark key="[" line="120" column="39" />
-        <mark key="]" line="120" column="75" />
-        <mark key="^" line="120" column="75" />
-        <mark key="." line="120" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/list_item_ref_resource.xml" timestamp="1523871726249">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/CommentActivity.java" timestamp="1529375131189">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/DynamicObject.java" timestamp="1528256790419">
-        <mark key="[" line="863" column="37" />
-        <mark key="]" line="91" column="24" />
-        <mark key="^" line="91" column="24" />
-        <mark key="." line="91" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/maopao/MaopaoDetailActivity.java" timestamp="1529551733271">
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="303" column="7" />
-        <mark key="^" line="303" column="7" />
-        <mark key="." line="303" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/message/MessageListActivity.java" timestamp="1527216095129">
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
-        <mark key="." line="224" column="0" />
-        <mark key="^" line="226" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/board_point.xml" timestamp="1525178697818">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/activity_login.xml" timestamp="1531209733968">
+        <mark key="[" line="154" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle/wrapper/gradle-wrapper.properties" timestamp="1530522815371">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/task_list_item_dynamic.xml" timestamp="1523931279735">
-        <mark key="[" line="70" column="56" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="43" />
-        <mark key="^" line="71" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_add_follow_list_item.xml" timestamp="1526027103135">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="37" />
-        <mark key="." line="35" column="37" />
-        <mark key="^" line="35" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/res/layout/introduce_page_2.xml" timestamp="1523354476657">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="54" />
-        <mark key="." line="45" column="54" />
-        <mark key="^" line="45" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_attachments_folder_selector.xml" timestamp="1528266088723">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/java/info/chenchao/android/source/handler/CCThread.java" timestamp="1523583399645">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_phone_register.xml" timestamp="1528961629794">
-        <mark key="[" line="155" column="51" />
-        <mark key="]" line="156" column="41" />
-        <mark key="^" line="156" column="41" />
-        <mark key="." line="156" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/app/src/main/java/info/chenchao/android/source/temp3/MainActivity.kt" timestamp="1529659485997">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileHolder.java" timestamp="1529554047268">
-        <mark key="[" line="131" column="13" />
-        <mark key="]" line="132" column="12" />
-        <mark key="." line="132" column="12" />
-        <mark key="^" line="132" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/code/Branch.java" timestamp="1522229339435">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/build.gradle" timestamp="1523497985259">
-        <mark key="[" line="181" column="70" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_test.xml" timestamp="1527149253710">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/build.gradle" timestamp="1530505007059">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_add_board.xml" timestamp="1524725282421">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/compatible/EnterpriseCompatImp.java" timestamp="1528874047927">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-        <mark key="^" line="75" column="70" />
-      </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/MembersListFragment.java" timestamp="1531203291252">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/gradle.properties" timestamp="1523351005174">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_edit_code.xml" timestamp="1528790615697">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TaskListFragment.java" timestamp="1527298342437">
-        <mark key="[" line="236" column="12" />
-        <mark key="]" line="236" column="20" />
-        <mark key="^" line="237" column="8" />
-        <mark key="." line="236" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/person/AndroidManifest.xml" timestamp="1527149418696">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/init_fragment_project_set.xml" timestamp="1531193667863" />
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/git_view_child.xml" timestamp="1523050170382">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventDownloadError.java" timestamp="1523237436345">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseSettingActivity.java" timestamp="1529380924284">
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="150" column="38" />
-        <mark key="." line="150" column="38" />
-        <mark key="^" line="150" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/dimens.xml" timestamp="1522375804863">
-        <mark key="[" line="141" column="58" />
-        <mark key="]" line="145" column="0" />
-        <mark key="^" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/init_activity_project_advance_set.xml" timestamp="1525254565997">
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="36" column="42" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/init_fragment_project_set.xml" timestamp="1531208323586">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="49" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/TaskDescriptionActivity.java" timestamp="1529375195345">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/recyclerview-coding/build.gradle" timestamp="1525508012080">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="33" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/maopao/ProjectMaopaoAdapter.java" timestamp="1529373012660">
-        <mark key="[" line="110" column="4" />
-        <mark key="]" line="110" column="11" />
-        <mark key="^" line="110" column="11" />
-        <mark key="." line="110" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_project_maopao_detail_head.xml" timestamp="1525942288781">
-        <mark key="[" line="228" column="0" />
-        <mark key="]" line="228" column="0" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="139" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/Committer.java" timestamp="1522310389429">
-        <mark key="[" line="26" column="4" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/git-code-coding/src/main/java/net/coding/program/git/GitCodeReadActivity.java" timestamp="1523229574545">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/ui/PickPhotoActivity.java" timestamp="1529027700790">
-        <mark key="[" line="83" column="24" />
-        <mark key="]" line="83" column="65" />
-        <mark key="^" line="83" column="65" />
-        <mark key="." line="83" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/ValidePhoneActivity.java" timestamp="1527240007875">
-        <mark key="[" line="211" column="9" />
-        <mark key="]" line="212" column="7" />
-        <mark key="^" line="212" column="7" />
-        <mark key="." line="212" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_code_branch_manager.xml" timestamp="1522832564011">
-        <mark key="[" line="6" column="49" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/github/MaterialDesignDemo1/build.gradle" timestamp="1529658565910">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/AndroidManifest.xml" timestamp="1523521716472">
-        <mark key="[" line="339" column="30" />
-        <mark key="]" line="339" column="30" />
-        <mark key="." line="339" column="30" />
-        <mark key="^" line="339" column="30" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/team_project_list_item.xml" timestamp="1531205368740">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/EntranceActivity.java" timestamp="1527227169020">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="192" column="34" />
-        <mark key="^" line="157" column="60" />
-        <mark key="." line="192" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/board_list_item_tag.xml" timestamp="1524742547797">
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_menu_project.xml" timestamp="1528883205107">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/third/WechatTab.java" timestamp="1529570610463">
-        <mark key="[" line="71" column="34" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
-        <mark key="^" line="71" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/UserDetailEditActivity.java" timestamp="1529401210910">
-        <mark key="[" line="198" column="39" />
-        <mark key="]" line="198" column="39" />
-        <mark key="." line="198" column="39" />
-        <mark key="^" line="496" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/AndroidManifest.xml" timestamp="1528771109194">
-        <mark key="[" line="138" column="26" />
-        <mark key="]" line="138" column="43" />
-        <mark key="." line="138" column="43" />
-        <mark key="^" line="138" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/util/InputCheck.java" timestamp="1527144648725">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/push-coding/build.gradle" timestamp="1530177355247">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TopicAddActivity.java" timestamp="1529375358221">
-        <mark key="[" line="32" column="71" />
-        <mark key="]" line="32" column="71" />
-        <mark key="^" line="79" column="33" />
-        <mark key="." line="32" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/init_activity_project_archive.xml" timestamp="1525254729486">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="39" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="32" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/task/Tasks.java" timestamp="1524657786874">
-        <mark key="[" line="6" column="71" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/ProjectListFragment.java" timestamp="1531202714700">
-        <mark key="[" line="312" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/Maopao.java" timestamp="1525337224637">
-        <mark key="[" line="58" column="52" />
-        <mark key="]" line="42" column="30" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_add_board.xml" timestamp="1524724259978">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/FlowLabelLayout.java" timestamp="1524897118621">
-        <mark key="[" line="54" column="54" />
-        <mark key="]" line="54" column="58" />
-        <mark key="^" line="54" column="58" />
-        <mark key="." line="54" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/AccountSetting.java" timestamp="1529399666172">
-        <mark key="[" line="189" column="29" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="184" column="69" />
-        <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectMembersActivity.java" timestamp="1526366794381">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_project_maopao_detail_head.xml" timestamp="1529551575128">
-        <mark key="[" line="39" column="75" />
-        <mark key="]" line="40" column="39" />
-        <mark key="." line="40" column="39" />
-        <mark key="^" line="40" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/SingleTask.java" timestamp="1528793334674">
-        <mark key="[" line="166" column="102" />
-        <mark key="]" line="166" column="102" />
-        <mark key="^" line="166" column="84" />
-        <mark key="." line="166" column="102" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/ProjectListFragment.java" timestamp="1531204589332">
+        <mark key="[" line="315" column="16" />
+        <mark key="]" line="315" column="16" />
+        <mark key="." line="315" column="16" />
+        <mark key="^" line="315" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/drawable/round_icon_mask.xml" timestamp="1529052944603">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/param/ProjectJumpParam.java" timestamp="1525229971649">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="38" column="44" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="38" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/wiki/WikiMainActivity.java" timestamp="1524551728192">
-        <mark key="[" line="94" column="35" />
-        <mark key="]" line="94" column="34" />
-        <mark key="." line="94" column="34" />
-        <mark key="^" line="94" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/login/phone/Close2FAActivity.java" timestamp="1529400315105">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectSettingMainActivity.java" timestamp="1526022709563">
-        <mark key="[" line="64" column="40" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="68" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/create/ProjectCreateFragment.java" timestamp="1529027641795">
-        <mark key="[" line="169" column="81" />
-        <mark key="]" line="169" column="81" />
-        <mark key="." line="169" column="81" />
-        <mark key="^" line="169" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/message/UsersListFragment.java" timestamp="1529056317412">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
-        <mark key="^" line="381" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/AboutActivity.java" timestamp="1525940336256">
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="79" />
-        <mark key="^" line="42" column="41" />
-        <mark key="." line="42" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/.gitignore" timestamp="1530514220557">
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_enterprise_project_set.xml" timestamp="1529571748304">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="62" column="22" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/GitFileInfoObject.java" timestamp="1529034096435">
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="39" column="52" />
-        <mark key="^" line="39" column="52" />
-        <mark key="." line="39" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1531192350698">
+      <file name="/Dummy.txt" timestamp="1531209835348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/menu/common_edit.xml" timestamp="1522325180659">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/dialog_delete_project_2fa.xml" timestamp="1531208776390">
+        <mark key="[" line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/enterprise_activity_email_set_password.xml" timestamp="1527220339227">
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="101" />
-        <mark key="^" line="44" column="101" />
-        <mark key="." line="44" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/code/LastCommit.java" timestamp="1522309944367">
-        <mark key="[" line="25" column="25" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="15" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_project_setting_main.xml" timestamp="1529053880666">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_file_url.xml" timestamp="1528264298187">
-        <mark key="[" line="9" column="43" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="40" />
-        <mark key="^" line="10" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_add_follow.xml" timestamp="1526026936119">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="28" column="29" />
-        <mark key="^" line="28" column="29" />
-        <mark key="." line="28" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/LoginActivity.java" timestamp="1528880772137">
-        <mark key="[" line="303" column="40" />
-        <mark key="]" line="303" column="40" />
-        <mark key="." line="303" column="40" />
-        <mark key="^" line="303" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/board/AddBoardFragment.java" timestamp="1524727618161">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/enterprise_activity_login.xml" timestamp="1529551870579">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/menu/git_main.xml" timestamp="1523142736383">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/EnterprisePushReceiver.java" timestamp="1528774218974">
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
-        <mark key="^" line="148" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/git-code-coding/src/main/res/layout/activity_git_code_read.xml" timestamp="1523228063557">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="46" />
-        <mark key="^" line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TopicLabelBar.java" timestamp="1524834330572">
-        <mark key="[" line="120" column="49" />
-        <mark key="]" line="120" column="55" />
-        <mark key="^" line="120" column="55" />
-        <mark key="." line="120" column="55" />
-      </file>
-      <file name="/fragment.java" timestamp="1529665187865">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/input_password.xml" timestamp="1523266985897">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/ManageMemberActivity.java" timestamp="1531210183488">
+        <mark key="[" line="216" column="28" />
+        <mark key="]" line="216" column="31" />
+        <mark key="^" line="216" column="31" />
+        <mark key="." line="216" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/user/UserProvincesDialogFragment.java" timestamp="1529401272788">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/java/info/chenchao/android/source/SystemUtil.java" timestamp="1524189945610">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="66" column="4" />
-        <mark key="^" line="66" column="4" />
-        <mark key="." line="66" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_main_setting.xml" timestamp="1529552224976">
-        <mark key="[" line="86" column="39" />
-        <mark key="]" line="82" column="55" />
-        <mark key="^" line="82" column="55" />
-        <mark key="." line="82" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/res/layout/activity_main.xml" timestamp="1523536432119">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_task_add_head.xml" timestamp="1527062888892">
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="26" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="83" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_account_setting.xml" timestamp="1529398351636">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_merge_detail_footer.xml" timestamp="1529480279638">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/ProjectHomeActivity.java" timestamp="1528191928974">
-        <mark key="[" line="58" column="55" />
-        <mark key="]" line="58" column="55" />
-        <mark key="." line="58" column="55" />
-        <mark key="^" line="58" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/code/Release.java" timestamp="1522382432482">
-        <mark key="[" line="62" column="52" />
-        <mark key="]" line="62" column="52" />
-        <mark key="^" line="59" column="81" />
-        <mark key="." line="62" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1530514859919">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="65" column="36" />
-        <mark key="]" line="65" column="36" />
-        <mark key="^" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/drawable/cursor.xml" timestamp="1527294175727">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="3" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/build.gradle" timestamp="1529660106284">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="55" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="23" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/Share.java" timestamp="1528170817306">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/widget-pick-photo/src/main/java/net/coding/program/pickphoto/PhotoPickActivity.kt" timestamp="1526284420678">
-        <mark key="[" line="101" column="46" />
-        <mark key="]" line="154" column="63" />
-        <mark key="." line="154" column="63" />
-        <mark key="^" line="154" column="63" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/ManageProjectListActivity.java" timestamp="1531209450752">
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="284" column="34" />
+        <mark key="^" line="271" column="12" />
+        <mark key="." line="271" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/res/values/colors.xml" timestamp="1531193938731" />
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/pay-coding/build.gradle" timestamp="1530166500419">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="31" column="6" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/v2/EnterpriseProjectSetActivity.java" timestamp="1525957021995">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_project_merge_list_item.xml" timestamp="1529574599727">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="29" />
-        <mark key="." line="65" column="29" />
-        <mark key="^" line="61" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_welcome_board.xml" timestamp="1525224499183">
-        <mark key="[" line="2" column="55" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TopicLabelActivity.java" timestamp="1525421288623">
-        <mark key="[" line="267" column="120" />
-        <mark key="]" line="256" column="44" />
-        <mark key="." line="256" column="44" />
-        <mark key="^" line="256" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventBoardRefresh.java" timestamp="1524820398358">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/project_other_fragment.xml" timestamp="1528354492271">
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="53" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/maopao/ProjectMaopaoAddActivity.java" timestamp="1529375439928">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="38" />
-        <mark key="^" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/menu/add_board_list.xml" timestamp="1525229247545">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_enterprise_account.xml" timestamp="1526883695828">
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/java/info/chenchao/android/source/fragment/pager/SimplePager.java" timestamp="1526874064426">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/ui/BaseActivity.java" timestamp="1528790341695">
-        <mark key="[" line="327" column="16" />
-        <mark key="]" line="327" column="15" />
-        <mark key="^" line="327" column="15" />
-        <mark key="." line="327" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/login/phone/EnterpriseEmailSetPasswordActivity.java" timestamp="1527227524044">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="40" />
-        <mark key="." line="34" column="40" />
-        <mark key="^" line="34" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/project/maopao/EnterprisePrivateProjectMaopaoEditFragment.java" timestamp="1527147303445">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="23" column="80" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileMainActivity.java" timestamp="1529566377168">
-        <mark key="[" line="888" column="13" />
-        <mark key="]" line="889" column="11" />
-        <mark key="^" line="889" column="11" />
-        <mark key="." line="889" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/push-coding/src/main/java/net/coding/program/push/Rom.kt" timestamp="1524192476858">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="77" column="42" />
-        <mark key="^" line="77" column="42" />
-        <mark key="." line="77" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/board/WelcomeBoardFragment.java" timestamp="1525224836691">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="15" column="60" />
-        <mark key="^" line="15" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/app/build.gradle" timestamp="1529660218618">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectFunction.java" timestamp="1529574244274">
-        <mark key="[" line="21" column="68" />
-        <mark key="]" line="21" column="68" />
-        <mark key="." line="21" column="68" />
-        <mark key="^" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectArchiveActivity.java" timestamp="1525255653403">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/network/MyAsyncHttpClient.java" timestamp="1528091482273">
-        <mark key="[" line="84" column="148" />
-        <mark key="]" line="84" column="52" />
-        <mark key="." line="84" column="52" />
-        <mark key="^" line="84" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectCamp.java" timestamp="1527147031178">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_search_project_actionbar.xml" timestamp="1528959090138">
-        <mark key="[" line="22" column="49" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/push-xiaomi/build.gradle" timestamp="1530166279133">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="48" column="6" />
-        <mark key="^" line="48" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/search_merge_list.xml" timestamp="1525672393567">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="45" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_maopao_detail_head.xml" timestamp="1529551374511">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="40" column="41" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/TopicLabelObject.java" timestamp="1525421215611">
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="54" column="38" />
-        <mark key="." line="54" column="38" />
-        <mark key="^" line="54" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/task/TaskCreating.java" timestamp="1524903992854">
-        <mark key="[" line="14" column="45" />
-        <mark key="]" line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/FileHistoryActivity.java" timestamp="1528276864386">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="195" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/board/BoardFragment.java" timestamp="1525316081054">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="291" column="62" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="265" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/code/Attachment.java" timestamp="1522737164527">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/res/layout/fragment_reward_detail_description_custom.xml" timestamp="1523354402768">
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="64" />
-        <mark key="^" line="87" column="58" />
-        <mark key="." line="87" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/git/EditCodeActivity.java" timestamp="1528790355928">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="149" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/search/SearchProjectActivity.java" timestamp="1528959231862">
-        <mark key="[" line="77" column="19" />
-        <mark key="]" line="77" column="19" />
-        <mark key="." line="77" column="19" />
-        <mark key="^" line="79" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_board_list.xml" timestamp="1526977096007">
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="41" />
-        <mark key="." line="28" column="41" />
-        <mark key="^" line="28" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/ProjectFragment.java" timestamp="1528883382520">
-        <mark key="[" line="218" column="36" />
-        <mark key="]" line="218" column="33" />
-        <mark key="." line="218" column="33" />
-        <mark key="^" line="218" column="33" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/dialog_delete_project.xml" timestamp="1531208733484">
+        <mark key="[" line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/values/styles.xml" timestamp="1529893708843">
         <mark key="[" line="544" column="0" />
         <mark key="]" line="544" column="0" />
         <mark key="." line="544" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_board.xml" timestamp="1525237448987">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="25" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/init_fragment_project_set.xml" timestamp="1529053769767">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="102" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_message_user_list_head.xml" timestamp="1529055642007">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/git-code-coding/build.gradle" timestamp="1530164981192">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/project/maopao/EnterpriseProjectMaopaoAdapter.java" timestamp="1525941699360">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="83" column="6" />
-        <mark key="." line="101" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/push-huawei/build.gradle" timestamp="1530166454827">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseMainSettingFragment.kt" timestamp="1529391803304">
         <mark key="[" line="77" column="44" />
         <mark key="]" line="77" column="44" />
         <mark key="." line="77" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/file/CodingFileView.java" timestamp="1528257216081">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/fragment_enterprise_project.xml" timestamp="1529893712972">
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="39" />
-        <mark key="^" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_about_point.xml" timestamp="1526114654882">
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="61" column="20" />
-        <mark key="." line="61" column="20" />
-        <mark key="^" line="61" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/GitFileBlobObject.java" timestamp="1529049837246">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="44" />
-        <mark key="^" line="18" column="73" />
-        <mark key="." line="16" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/login/phone/EnterprisePrivateEmailSetPasswordActivity.java" timestamp="1527251991332">
-        <mark key="[" line="37" column="43" />
-        <mark key="]" line="37" column="43" />
-        <mark key="^" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventDownloadProgress.java" timestamp="1522830835760">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/network/model/file/CodingFile.java" timestamp="1528277582843">
-        <mark key="[" line="87" column="33" />
-        <mark key="]" line="87" column="45" />
-        <mark key="^" line="87" column="45" />
-        <mark key="." line="87" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/base/MDEditPreviewActivity.java" timestamp="1529374983529">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="23" />
-        <mark key="^" line="39" column="4" />
-        <mark key="." line="35" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/gradle.properties" timestamp="1530067055747">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/EventDownloadProgress.java" timestamp="1522827013943">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/board_list_item.xml" timestamp="1527058654108">
-        <mark key="[" line="63" column="36" />
-        <mark key="]" line="63" column="37" />
-        <mark key="." line="63" column="37" />
-        <mark key="^" line="49" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/input/TopBar.java" timestamp="1527213824876">
-        <mark key="[" line="134" column="68" />
-        <mark key="]" line="134" column="84" />
-        <mark key="." line="134" column="84" />
-        <mark key="^" line="134" column="84" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/github/MaterialDesignDemo1/app/build.gradle" timestamp="1529658435164">
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/view_load_more.xml" timestamp="1524832148909">
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="29" />
-        <mark key="." line="45" column="29" />
-        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/drawable/ic_share_project.xml" timestamp="1531194019001">
         <mark key="[" line="0" column="58" />
@@ -1417,441 +202,58 @@
         <mark key="^" line="0" column="55" />
         <mark key="." line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/fragment_project_private.xml" timestamp="1528357114492">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="181" column="15" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/README.md" timestamp="1526898089916">
-        <mark key="[" line="66" column="5" />
-        <mark key="]" line="66" column="14" />
-        <mark key="." line="66" column="14" />
-        <mark key="^" line="66" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/route/URLSpanNoUnderline.java" timestamp="1528249882402">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/enterprise_private_activity_email_set_password.xml" timestamp="1527250714201">
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="34" column="58" />
-        <mark key="." line="34" column="58" />
-        <mark key="^" line="34" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/GitViewActivity.java" timestamp="1529049888166">
-        <mark key="[" line="208" column="78" />
-        <mark key="]" line="208" column="78" />
-        <mark key="^" line="208" column="89" />
-        <mark key="." line="208" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/EnterpriseEntranceActivity.java" timestamp="1528786154464">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="114" column="25" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/TerminalBuild1/app/build.gradle" timestamp="1530504994786">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/HeadCommitObject.java" timestamp="1526631410127">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/androidTest/java/net/coding/program/util/Help.java" timestamp="1524209206503">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="18" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/BranchManageFragment.java" timestamp="1527135060656">
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="89" column="68" />
-        <mark key="^" line="89" column="68" />
-        <mark key="." line="89" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_project_transfer.xml" timestamp="1525256337539">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="43" />
-        <mark key="." line="83" column="43" />
-        <mark key="^" line="83" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/wiki/NodeHolder.java" timestamp="1523514988916">
-        <mark key="[" line="110" column="31" />
-        <mark key="]" line="96" column="90" />
-        <mark key="." line="96" column="90" />
-        <mark key="^" line="96" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragment.java" timestamp="1529044380119">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="^" line="302" column="0" />
-        <mark key="." line="199" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/CodingRecyclerLoadMoreView.java" timestamp="1524883642767">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileAdapter.java" timestamp="1529553973218">
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="42" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_valide_phone.xml" timestamp="1527239936487">
-        <mark key="[" line="71" column="51" />
-        <mark key="]" line="71" column="51" />
-        <mark key="^" line="71" column="51" />
-        <mark key="." line="71" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/MyProjectPagerAdapter.java" timestamp="1528883544705">
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="44" column="6" />
-        <mark key="." line="44" column="6" />
-        <mark key="^" line="44" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/SetPasswordActivity.java" timestamp="1524020870527">
-        <mark key="[" line="106" column="41" />
-        <mark key="]" line="107" column="39" />
-        <mark key="^" line="107" column="39" />
-        <mark key="." line="107" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_login.xml" timestamp="1528959554139">
-        <mark key="[" line="117" column="60" />
-        <mark key="]" line="117" column="59" />
-        <mark key="^" line="117" column="59" />
-        <mark key="." line="117" column="59" />
-      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/v2/ProjectSetFragmentBase.java" timestamp="1531206971230" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_set.xml" timestamp="1529571561287">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/event/EventBoardUpdate.java" timestamp="1524829153699">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_edit_release_detail.xml" timestamp="1522724196129">
-        <mark key="[" line="35" column="48" />
-        <mark key="]" line="35" column="49" />
-        <mark key="^" line="35" column="49" />
-        <mark key="." line="35" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/widget-pick-photo/build/generated/source/kapt/debug/net/coding/program/pickphoto/detail/ImagePagerActivity_.java" timestamp="1530156826852">
-        <mark key="[" line="61" column="32" />
-        <mark key="]" line="61" column="28" />
-        <mark key="^" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/README_EN.md" timestamp="1523626267514">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/ReleaseDetailActivity.java" timestamp="1528796742248">
         <mark key="[" line="124" column="43" />
         <mark key="]" line="124" column="44" />
         <mark key="." line="124" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/TaskObject.java" timestamp="1524735820487">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/pick_board_list_item.xml" timestamp="1528794128298">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/menu/enterprise_main_project.xml" timestamp="1529894132123">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/AboutActivity.kt" timestamp="1524551060517">
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="55" column="7" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/build.gradle" timestamp="1530513148146">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseAccountActivity.java" timestamp="1526883877301">
-        <mark key="[" line="80" column="44" />
-        <mark key="]" line="80" column="44" />
-        <mark key="^" line="82" column="8" />
-        <mark key="." line="80" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/app/src/main/java/info/chenchao/android/source/temp3/Main2Activity.java" timestamp="1529660552666">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="39" />
-        <mark key="^" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectSetFragment.java" timestamp="1525943880509">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-        <mark key="^" line="123" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/network/NetworkImpl.java" timestamp="1529050076767">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/AndroidManifest.xml" timestamp="1528967718005">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/init_fragment_project_create.xml" timestamp="1529571770900">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="62" column="35" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_about.xml" timestamp="1529391682819">
-        <mark key="[" line="117" column="31" />
-        <mark key="]" line="117" column="42" />
-        <mark key="^" line="122" column="41" />
-        <mark key="." line="122" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/adapter/SearchHistoryListAdapter.java" timestamp="1528955999332">
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-        <mark key="^" line="19" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/widget-pick-photo/build.gradle" timestamp="1530505941021">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-        <mark key="^" line="31" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/user/EnterpriseAddMemberActivity.java" timestamp="1528278963218">
-        <mark key="[" line="171" column="71" />
-        <mark key="]" line="171" column="72" />
-        <mark key="^" line="171" column="72" />
-        <mark key="." line="171" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/ModifyEmailActivity.java" timestamp="1526611125061">
-        <mark key="[" line="72" column="81" />
-        <mark key="]" line="72" column="81" />
-        <mark key="." line="72" column="81" />
-        <mark key="^" line="84" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/java/net/coding/mart/activity/mpay/MPayRechargeActivity.java" timestamp="1523348713218">
-        <mark key="[" line="91" column="11" />
-        <mark key="]" line="91" column="11" />
-        <mark key="." line="91" column="11" />
-        <mark key="^" line="145" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/SearchCache.java" timestamp="1528955492034">
-        <mark key="[" line="61" column="42" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/release_list_item.xml" timestamp="1529570435366">
-        <mark key="[" line="31" column="27" />
-        <mark key="]" line="31" column="28" />
-        <mark key="^" line="31" column="27" />
-        <mark key="." line="31" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_release_detail.xml" timestamp="1529572320912">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="36" />
-        <mark key="^" line="34" column="63" />
-        <mark key="." line="37" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/login/PhoneRegisterActivity.java" timestamp="1528961615942">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="69" />
-        <mark key="." line="74" column="69" />
-        <mark key="^" line="74" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/GitFileObject.java" timestamp="1529050225331">
-        <mark key="[" line="36" column="52" />
-        <mark key="]" line="36" column="70" />
-        <mark key="." line="36" column="60" />
-        <mark key="^" line="36" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/build.gradle" timestamp="1530505371549">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseSupportActivity.kt" timestamp="1525940282641">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/common/widget/input/MainInputView.java" timestamp="1527213889185">
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="67" column="40" />
-        <mark key="." line="67" column="40" />
-        <mark key="^" line="67" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/activity_ref_resource.xml" timestamp="1523873679179">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/route/BlankViewDisplay.java" timestamp="1527242712351">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="26" />
-        <mark key="^" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/widget-pick-photo/src/main/java/net/coding/program/pickphoto/detail/ImagePagerActivity.kt" timestamp="1524555458017">
-        <mark key="[" line="185" column="45" />
-        <mark key="]" line="185" column="45" />
-        <mark key="." line="185" column="45" />
-        <mark key="^" line="185" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/MiPushMessageReceiver.java" timestamp="1528773120471">
-        <mark key="[" line="12" column="67" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeListFragment.java" timestamp="1529478984388">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/AttachmentFileObject.java" timestamp="1528274786530">
-        <mark key="[" line="144" column="38" />
-        <mark key="]" line="144" column="39" />
-        <mark key="." line="144" column="39" />
-        <mark key="^" line="144" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Mart-Android/app/src/main/java/net/coding/mart/common/share/AllThirdKeys.java" timestamp="1523341124035">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="4" column="2" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/init/setting/ProjectSetFragment.java" timestamp="1531207753179">
+        <mark key="[" line="80" column="52" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="81" column="7" />
+        <mark key="^" line="81" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/luban/build.gradle" timestamp="1530166835629">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/bottom-bar/build.gradle" timestamp="1525508297404">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectDynamicFragment.java" timestamp="1526630749402">
-        <mark key="[" line="139" column="43" />
-        <mark key="]" line="139" column="52" />
-        <mark key="." line="139" column="52" />
-        <mark key="^" line="139" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/src/main/java/net/coding/program/common/ui/shadow/TaskBoardItemSpace.java" timestamp="1524883097680">
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="21" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/widget-pick-photo/src/main/java/net/coding/program/pickphoto/detail/ImagePagerFragment.kt" timestamp="1529483610082">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/Temp3/build.gradle" timestamp="1529659782331">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/build.gradle" timestamp="1530082835139">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="300" column="0" />
-        <mark key="." line="300" column="0" />
-        <mark key="^" line="264" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/push-huawei/src/main/java/net/coding/program/push/huawei/HuaweiPush.kt" timestamp="1529483906192">
-        <mark key="[" line="92" column="12" />
-        <mark key="]" line="92" column="12" />
-        <mark key="^" line="92" column="19" />
-        <mark key="." line="92" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_create.xml" timestamp="1529571732782">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="37" column="21" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/AndroidSourceStudy/app/src/main/java/info/chenchao/android/source/fragment/pager/PagerActivity.java" timestamp="1526874156744">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="44" />
-        <mark key="." line="14" column="44" />
-        <mark key="^" line="14" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/res/layout/enterprise_name_layout.xml" timestamp="1527228065047">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/project_search_view.xml" timestamp="1529892796336">
-        <mark key="[" line="51" column="42" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/common-coding/build.gradle" timestamp="1528969883015">
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="108" column="6" />
-        <mark key="^" line="108" column="6" />
-        <mark key="." line="108" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/TestActivity.java" timestamp="1528192103878">
-        <mark key="[" line="50" column="57" />
-        <mark key="]" line="50" column="57" />
-        <mark key="^" line="50" column="56" />
-        <mark key="." line="50" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/setting/SettingFragment.java" timestamp="1529399936427">
-        <mark key="[" line="163" column="31" />
-        <mark key="]" line="164" column="11" />
-        <mark key="." line="164" column="11" />
-        <mark key="^" line="164" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/add/TaskAddActivity.java" timestamp="1529569479998">
-        <mark key="[" line="1228" column="49" />
-        <mark key="]" line="1228" column="48" />
-        <mark key="." line="1228" column="48" />
-        <mark key="^" line="1228" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/MergeDetailActivity.java" timestamp="1529480821421">
-        <mark key="[" line="274" column="31" />
-        <mark key="]" line="275" column="8" />
-        <mark key="." line="275" column="8" />
-        <mark key="^" line="275" column="8" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/user/team/TeamProjectListActivity.java" timestamp="1531204652719">
+        <mark key="[" line="176" column="45" />
+        <mark key="]" line="176" column="45" />
+        <mark key="." line="176" column="45" />
+        <mark key="^" line="176" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -1960,44 +362,44 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.this</text>
       </register>
       <register name="-" type="4">
-        <text>@color/font_3</text>
+        <text>.this</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFuaWZlc3RQbGFjZWhvbGRlcnMgPSBbCiAgICAgICAgICAgICAgICAgICAgWEdfQUNDRVNTX0lEIDogIjIxMDAyNDk2NDkiLAogICAgICAgICAgICAgICAgICAgIFhHX0FDQ0VTU19LRVk6ICJBRTZEUTRDNUczNUciLAogICAgICAgICAgICBdCg==</text>
+      <register name="0" type="4">
+        <text>actionRemoveNormal</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBoYW5kZXIyZmEuc2VuZEVtcHR5TWVzc2FnZSgwKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhYSgpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMmRwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpzdHJva2VDb2xvcj0iQGNvbG9yL2ZvbnRfMyIK</text>
+        <text encoding="base64">ICAgICAgICBkZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV4dCA9IGRlc2NyaXB0aW9uLmdldFRleHQoKS50b1N0cmluZygpLnRyaW0oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2011,11 +413,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmg+Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">OwogICAgICAgIGlmICh0ZXh0LmVxdWFscyhtUHJvamVjdE9iamVjdC5kZXNjcmlwdGlvbikpIHsKICAgICAgICAgICAgZW5hYmxlU2VuZEJ1dHRvbihmYWxzZSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwYXRoIGFuZHJvaWQ6ZmlsbENvbG9yPSJAY29sb3Ivd2hpdGUiIGFuZHJvaWQ6cGF0aERhdGE9Im0zMS42LDI2LjdxMCwtMiAtMS40LC0zLjR0LTMuNCwtMS40cS0xLjksMCAtMy4yLDEuM2wtNS40LC0yLjdxMCwtMC4zIDAsLTAuNXQwLC0wLjVsNS40LC0yLjdxMS4zLDEuMyAzLjIsMS4zIDIsMCAzLjQsLTEuNHQxLjQsLTMuNCAtMS40LC0zLjMgLTMuNCwtMS40IC0zLjQsMS40IC0xLjQsMy4zcTAsMC4yIDAuMSwwLjVsLTUuNCwyLjdxLTEuNCwtMS4zIC0zLjIsLTEuMyAtMiwwIC0zLjQsMS40dC0xLjQsMy40IDEuNCwzLjQgMy40LDEuNHExLjgsMCAzLjIsLTEuM2w1LjQsMi43cS0wLjEsMC4zIC0wLjEsMC41IDAsMS45IDEuNCwzLjN0My40LDEuNCAzLjQsLTEuNCAxLjQsLTMuM3pNMzcuMyw5LjN2MjEuNHEwLDIuNyAtMS45LDQuNnQtNC41LDEuOGgtMjEuNXEtMi42LDAgLTQuNSwtMS44dC0xLjksLTQuNnYtMjEuNHEwLC0yLjcgMS45LC00LjZ0NC41LC0xLjhoMjEuNXEyLjYsMCA0LjUsMS44dDEuOSw0LjZ6Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIWlucHV0TmFtZS5lcXVhbHMobVByb2plY3RPYmplY3QubmFtZSkgfHwgIWlucHV0RGVzLmVxdWFscyhtUHJvamVjdE9iamVjdC5kZXNjcmlwdGlvbikpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
