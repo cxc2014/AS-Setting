@@ -91,7 +91,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileMainActivity.java" timestamp="1531298333261">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileMainActivity.java" timestamp="1531299468744">
         <mark key="[" line="833" column="0" />
         <mark key="]" line="833" column="0" />
         <mark key="." line="833" column="0" />
@@ -102,7 +102,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcode/1.9.0/c1074afa52bc2b86abe3482c8935b622996cdece/utilcode-1.9.0-sources.jar!/com/blankj/utilcode/util/FileIOUtils.java" timestamp="1531298937258" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcode/1.9.0/c1074afa52bc2b86abe3482c8935b622996cdece/utilcode-1.9.0-sources.jar!/com/blankj/utilcode/util/FileIOUtils.java" timestamp="1531298963557" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/activity_maopao_detail_head.xml" timestamp="1529551382560">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -164,11 +164,11 @@
         <mark key="]" line="110" column="18" />
         <mark key="." line="110" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/MarkdownEditActivity.java" timestamp="1531298892261">
-        <mark key="[" line="75" column="67" />
-        <mark key="]" line="75" column="46" />
-        <mark key="^" line="75" column="46" />
-        <mark key="." line="75" column="46" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/MarkdownEditActivity.java" timestamp="1531299638204">
+        <mark key="[" line="80" column="29" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="78" column="60" />
+        <mark key="." line="80" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/setting/AboutActivity.java" timestamp="1531296545552">
         <mark key="[" line="105" column="53" />
@@ -315,7 +315,7 @@
         <mark key="." line="66" column="41" />
         <mark key="^" line="66" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531297746191">
+      <file name="/Dummy.txt" timestamp="1531299034211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -523,8 +523,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>file</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
@@ -539,28 +539,28 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZVV0aWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSeFBlcm1pc3Npb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmlsZUlPVXRpbHMuY3AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBSeFBlcm1pc3Npb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIVBlcm1pc3Npb25VdGlsLndyaXRlRXh0cmFsU3RvcmFnZShhY3Rpdml0eSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FtZXJhKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -575,10 +575,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbFByb2plY3RGaWxlQWN0aXZpdHlfLmludGVudCh0aGlzKS5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIVBlcm1pc3Npb25VdGlsLndyaXRlRXh0cmFsU3RvcmFnZShhY3Rpdml0eSkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FtZXJhKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
