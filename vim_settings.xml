@@ -34,10 +34,11 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1531290545910">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1531294566957">
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/TaskDescriptionActivity.java" timestamp="1529375195345">
         <mark key="[" line="48" column="0" />
@@ -113,11 +114,11 @@
         <mark key="]" line="110" column="18" />
         <mark key="." line="110" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/setting/AboutActivity.java" timestamp="1531291695701">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="^" line="102" column="27" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/setting/AboutActivity.java" timestamp="1531294453285">
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="36" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/user/UsersListActivity.java" timestamp="1528879570575">
         <mark key="[" line="182" column="27" />
@@ -210,7 +211,7 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531290645369">
+      <file name="/Dummy.txt" timestamp="1531293388228">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -224,6 +225,12 @@
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/MainProjectFragment.kt" timestamp="1531293412811">
+        <mark key="[" line="184" column="25" />
+        <mark key="]" line="184" column="25" />
+        <mark key="." line="184" column="25" />
+        <mark key="^" line="184" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/widget-pick-photo/src/main/java/net/coding/program/pickphoto/detail/ImagePagerFragment.kt" timestamp="1529483610082">
         <mark key="[" line="175" column="0" />
@@ -376,45 +383,43 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>setTitle</text>
+        <text>versionName</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
       </register>
       <register name="0" type="4">
-        <text>maven {
-            url &quot;https://jitpack.io&quot;
-        }</text>
+        <text>versionSplite</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hvd0RpYWxvZyhtc2csIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbi5zZXRUZXh0KHZlcnNpb25TdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gIiI7CiAgICAgICAgc2hvd0RpYWxvZyhtc2csIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0gdmVyc2lvbk5hbWUuaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd0RpYWxvZyhtc2csIG51bGwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyc2lvbi5zZXRUZXh0KHZlcnNpb25TdHJpbmcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -429,10 +434,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbiB7CiAgICAgICAgICAgIHVybCAiJHtyb290RGlyfS9sb2NhbF9yZXBvcyIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnID0gIiI7CiAgICAgICAgc2hvd0RpYWxvZyhtc2csIG51bGwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
