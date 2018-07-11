@@ -234,6 +234,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/Global.java" timestamp="1531275763138">
+        <mark key="[" line="476" column="42" />
+        <mark key="]" line="476" column="42" />
+        <mark key="^" line="476" column="39" />
+        <mark key="." line="476" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseMainSettingFragment.kt" timestamp="1529391803304">
         <mark key="[" line="77" column="44" />
         <mark key="]" line="77" column="44" />
@@ -361,8 +367,8 @@
         <mark key="." line="176" column="45" />
         <mark key="^" line="176" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/UserDetailEditActivity.java" timestamp="1531273742436">
-        <mark key="[" line="295" column="18" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/UserDetailEditActivity.java" timestamp="1531275788250">
+        <mark key="[" line="497" column="66" />
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
       </file>
@@ -491,10 +497,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBSRVNVTFRfQ0FNRVJBID0gMjAwMjsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJFU1VMVF9NSUNST1BIT05FID0gMjAwMzsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJFU1VMVF9MT0NBVElPTiA9IDIwMDQ7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBSRVNVTFRfU1RPUkFHRSA9IDIwMDE7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBSRVNVTFRfQ0FNRVJBX1NUT1JBR0UgPSAyMDA1OwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgUkVTVUxUX1BIT05FX1NUQVRVUyA9IDIwMDY7Cg==</text>
+        <text>1024</text>
       </register>
       <register name="-" type="4">
-        <text>CAMERA_STORAGE</text>
+        <text>1024</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
