@@ -59,6 +59,11 @@
         <mark key="^" line="823" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.blankj/utilcode/1.9.0/c1074afa52bc2b86abe3482c8935b622996cdece/utilcode-1.9.0-sources.jar!/com/blankj/utilcode/util/FileIOUtils.java" timestamp="1531298963557" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1531366239800">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectActivity.java" timestamp="1531298301143" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TopicEditFragment.java" timestamp="1531362740417">
         <mark key="[" line="32" column="44" />
@@ -178,7 +183,7 @@
         <mark key="." line="66" column="41" />
         <mark key="^" line="66" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531365213138">
+      <file name="/Dummy.txt" timestamp="1531366215991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -357,11 +362,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
