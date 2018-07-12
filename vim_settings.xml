@@ -185,6 +185,7 @@
         <mark key="]" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/LoginActivity.java" timestamp="1531389156544" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" timestamp="1531205289283">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
@@ -415,7 +416,7 @@
         <mark key="." line="81" column="7" />
         <mark key="^" line="81" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531387300946">
+      <file name="/Dummy.txt" timestamp="1531388634059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -442,11 +443,11 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/ManageMemberActivity.java" timestamp="1531210183488">
-        <mark key="[" line="216" column="28" />
-        <mark key="]" line="216" column="31" />
-        <mark key="^" line="216" column="31" />
-        <mark key="." line="216" column="31" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/ManageMemberActivity.java" timestamp="1531389173838">
+        <mark key="[" line="271" column="70" />
+        <mark key="]" line="271" column="68" />
+        <mark key="^" line="271" column="68" />
+        <mark key="." line="271" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_create.xml" timestamp="1529571732782">
         <mark key="[" line="14" column="0" />
@@ -578,10 +579,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
