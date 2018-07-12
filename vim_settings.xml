@@ -47,10 +47,10 @@
         <mark key="." line="294" column="24" />
         <mark key="^" line="294" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1531364812612">
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="60" column="39" />
-        <mark key="." line="60" column="39" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1531387239137">
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="73" column="41" />
         <mark key="^" line="59" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/values/strings.xml" timestamp="1531382003876">
@@ -82,7 +82,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1531366239800">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1531387488024">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
@@ -280,7 +280,7 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/message/NotifyListActivity.java" timestamp="1531385039538">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/message/NotifyListActivity.java" timestamp="1531386701438">
         <mark key="'" line="385" column="30" />
         <mark key="[" line="113" column="48" />
         <mark key="]" line="113" column="48" />
@@ -415,7 +415,7 @@
         <mark key="." line="81" column="7" />
         <mark key="^" line="81" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531385995150">
+      <file name="/Dummy.txt" timestamp="1531387300946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -578,10 +578,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>HOST_MARK_READ</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>HOST_MARK_READ</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
