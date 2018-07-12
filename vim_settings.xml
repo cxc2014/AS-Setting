@@ -91,7 +91,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileMainActivity.java" timestamp="1531299468744">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/v2/ProjectFileMainActivity.java" timestamp="1531361172774">
         <mark key="[" line="833" column="0" />
         <mark key="]" line="833" column="0" />
         <mark key="." line="833" column="0" />
@@ -164,7 +164,7 @@
         <mark key="]" line="110" column="18" />
         <mark key="." line="110" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/MarkdownEditActivity.java" timestamp="1531358721963">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/MarkdownEditActivity.java" timestamp="1531361167487">
         <mark key="[" line="80" column="29" />
         <mark key="]" line="85" column="36" />
         <mark key="^" line="85" column="36" />
@@ -281,6 +281,7 @@
         <mark key="^" line="469" column="46" />
         <mark key="." line="468" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsTextDetailActivity.java" timestamp="1531361228507" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_home_list_head_head.xml" timestamp="1531205745052">
         <mark key="[" line="71" column="42" />
         <mark key="]" line="71" column="42" />
@@ -405,6 +406,7 @@
         <mark key="^" line="170" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsHtmlDetailActivity.java" timestamp="1531298708500" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/file/TxtEditActivity.java" timestamp="1531361236922" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/maopao/MaopaoAddActivity.java" timestamp="1531275067503">
         <mark key="[" line="668" column="40" />
         <mark key="]" line="668" column="47" />
