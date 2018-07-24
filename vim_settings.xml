@@ -160,11 +160,12 @@
         <mark key="^" line="107" column="0" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1532401559033">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="142" column="8" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1532403383353">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="148" column="12" />
+        <mark key="]" line="148" column="12" />
+        <mark key="^" line="148" column="12" />
+        <mark key="." line="148" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragment.java" timestamp="1531218008995">
         <mark key="[" line="460" column="0" />
@@ -347,7 +348,8 @@
         <mark key="." line="66" column="41" />
         <mark key="^" line="66" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532401136383">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/user/team/TeamListActivity.java" timestamp="1532403906368" />
+      <file name="/Dummy.txt" timestamp="1532404010631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -395,10 +397,10 @@
         <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/fragment_main_setting.xml" timestamp="1531383022143">
-        <mark key="[" line="247" column="33" />
-        <mark key="]" line="247" column="33" />
-        <mark key="." line="247" column="33" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/fragment_main_setting.xml" timestamp="1532404294778">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/ManageMemberActivity.java" timestamp="1531389173838">
         <mark key="[" line="314" column="70" />
@@ -428,6 +430,7 @@
         <mark key="^" line="72" column="52" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build/generated/source/kapt/enterpriseDebug/net/coding/program/setting/MainSettingFragment_.java" timestamp="1532404260379" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/user/team/TeamProjectListActivity.java" timestamp="1531204652719">
         <mark key="[" line="176" column="45" />
         <mark key="]" line="176" column="45" />
@@ -466,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="17" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson2/task4/src/MyDate.kt" />
       <jump line="1" column="115" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson3/task9/src/Task.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson5/task2/src/Task.kt" />
       <jump line="11" column="34" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson5/task3/src/Task.kt" />
@@ -566,6 +568,7 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" />
       <jump line="70" column="33" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_home_list_head_head.xml" />
       <jump line="385" column="30" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/message/NotifyListActivity.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -575,7 +578,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>MainActivity.this.isFinishing()</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
@@ -593,22 +596,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoTWFpbkFjdGl2aXR5LnRoaXMub25SZXN1bWUoKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9IkBzdHlsZS9EaXZpZGVMaW5lIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSA2Ogo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1Jlc3VtZSA9IGZhbHNlOwogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAyOgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZWRJbnN0YW5jZVN0YXRlID09IG51bGwpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -622,11 +625,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBkZWZhdWx0OgogICAgICAgICAgICAgICAgU2VhcmNoTWVyZ2VSZXF1ZXN0c0ZyYWdtZW50IHNlYXJjaE1lcmdlUmVxdWVzdHNGcmFnbWVudDIgPSBuZXcgU2VhcmNoTWVyZ2VSZXF1ZXN0c0ZyYWdtZW50XygpOwogICAgICAgICAgICAgICAgc2VhcmNoTWVyZ2VSZXF1ZXN0c0ZyYWdtZW50Mi5zZXRLZXl3b3JkKGtleSk7CiAgICAgICAgICAgICAgICBzZWFyY2hNZXJnZVJlcXVlc3RzRnJhZ21lbnQyLnNldFRhYlByYW1zKHRhYltwb3NpdGlvbl0pOwogICAgICAgICAgICAgICAgcmV0dXJuIHNlYXJjaE1lcmdlUmVxdWVzdHNGcmFnbWVudDI7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFNlYXJjaENvbW1lbnRGcmFnbWVudCBjb21tZW50RnJhZ21lbnQgPSBuZXcgU2VhcmNoQ29tbWVudEZyYWdtZW50XygpOwogICAgICAgICAgICAgICAgY29tbWVudEZyYWdtZW50LnNldFRhYlByYW1zKHRhYltwb3NpdGlvbl0pOwogICAgICAgICAgICAgICAgY29tbWVudEZyYWdtZW50LnNldEtleXdvcmQoa2V5KTsKICAgICAgICAgICAgICAgIHJldHVybiBjb21tZW50RnJhZ21lbnQ7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoTWFpbkFjdGl2aXR5LnRoaXMub25SZXN1bWUoKSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
