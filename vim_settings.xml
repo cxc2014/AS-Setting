@@ -76,11 +76,11 @@
         <mark key="." line="294" column="24" />
         <mark key="^" line="294" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1531387239137">
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="40" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1532404826799">
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="73" column="41" />
         <mark key="." line="73" column="41" />
-        <mark key="^" line="59" column="26" />
+        <mark key="^" line="73" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/init_fragment_project_set.xml" timestamp="1531208323586">
         <mark key="[" line="51" column="0" />
@@ -127,10 +127,10 @@
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1532400163237">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1532405096758">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/project/detail/merge/ReleaseDetailActivity.java" timestamp="1528796742248">
@@ -161,7 +161,7 @@
         <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1532403383353">
-        <mark key="'" line="164" column="0" />
+        <mark key="'" line="163" column="0" />
         <mark key="[" line="148" column="12" />
         <mark key="]" line="148" column="12" />
         <mark key="^" line="148" column="12" />
@@ -574,11 +574,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>MainActivity.this.isFinishing()</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
