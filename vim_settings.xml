@@ -47,6 +47,7 @@
         <mark key="^" line="152" column="42" />
         <mark key="." line="152" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/model/UserObject.java" timestamp="1539159785076" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_set.xml" timestamp="1531205423832">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="60" />
@@ -64,6 +65,7 @@
         <mark key="^" line="385" column="46" />
         <mark key="." line="113" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/network/constant/VIP.kt" timestamp="1539159984009" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/init/create/ProjectCreateFragment.java" timestamp="1531218207517">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -179,7 +181,6 @@
         <mark key="^" line="69" column="6" />
         <mark key="." line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/user/EnterpriseLoginActivity.java" timestamp="1533711837342" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/AttachmentsDownloadDetailActivity.java" timestamp="1531217915775">
         <mark key="[" line="509" column="0" />
         <mark key="]" line="509" column="0" />
@@ -321,7 +322,6 @@
         <mark key="]" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/res/layout/enterprise_activity_login.xml" timestamp="1533700740188" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" timestamp="1531205289283">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
