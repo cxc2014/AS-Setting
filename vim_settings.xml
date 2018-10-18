@@ -87,11 +87,11 @@
         <mark key="." line="294" column="24" />
         <mark key="^" line="294" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1532404826799">
-        <mark key="[" line="73" column="40" />
-        <mark key="]" line="73" column="41" />
-        <mark key="." line="73" column="41" />
-        <mark key="^" line="73" column="38" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1539831974100">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/init_fragment_project_set.xml" timestamp="1531208323586">
         <mark key="[" line="51" column="0" />
@@ -144,7 +144,6 @@
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="/MainSettingFragment.kt" timestamp="1539163926102" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1532405096758">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
