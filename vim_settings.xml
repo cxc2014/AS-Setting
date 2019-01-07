@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/activity_task_add_head_edit.xml" timestamp="1546597120267">
         <mark key="[" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragment.java" timestamp="1546600805083">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragment.java" timestamp="1546827526524">
         <mark key="[" line="460" column="0" />
         <mark key="]" line="460" column="0" />
         <mark key="." line="460" column="0" />
@@ -242,7 +242,12 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1546826368828" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1546827490414">
+        <mark key="[" line="699" column="34" />
+        <mark key="]" line="699" column="34" />
+        <mark key="^" line="699" column="47" />
+        <mark key="." line="699" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/MainProjectFragment.kt" timestamp="1546585124122">
         <mark key="[" line="184" column="25" />
         <mark key="]" line="184" column="25" />
@@ -407,11 +412,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Base64.Encoder</text>
       </register>
       <register name="-" type="4">
-        <text>TAG_PROJECT_TASK_COUNT</text>
+        <text>Base64.Encoder</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
