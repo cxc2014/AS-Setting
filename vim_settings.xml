@@ -62,6 +62,12 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/url/UrlCreate.java" timestamp="1546828210973">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="9" />
+        <mark key="." line="60" column="9" />
+        <mark key="^" line="60" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_set.xml" timestamp="1529571561287">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -200,6 +206,12 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/Global.java" timestamp="1546828365851">
+        <mark key="[" line="267" column="40" />
+        <mark key="]" line="267" column="40" />
+        <mark key="^" line="267" column="40" />
+        <mark key="." line="267" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/java/net/coding/program/setting/EnterpriseMainSettingFragment.kt" timestamp="1529391803304">
         <mark key="[" line="77" column="44" />
         <mark key="]" line="77" column="44" />
@@ -242,11 +254,11 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1546827490414">
-        <mark key="[" line="699" column="34" />
-        <mark key="]" line="699" column="34" />
-        <mark key="^" line="699" column="47" />
-        <mark key="." line="699" column="34" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1546828383739">
+        <mark key="[" line="701" column="0" />
+        <mark key="]" line="701" column="0" />
+        <mark key="^" line="700" column="66" />
+        <mark key="." line="701" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/MainProjectFragment.kt" timestamp="1546585124122">
         <mark key="[" line="184" column="25" />
@@ -412,11 +424,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Base64.Encoder</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmVyc2lvbiA9IEdsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Base64.Encoder</text>
+        <text>Global.decodeUtf8(version);</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
@@ -428,28 +440,28 @@
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmVyc2lvbiA9IEdsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3RFdmVudFVwZGF0ZUNvdW50KCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudXNlRXZlbnRCdXMoKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3RFdmVudFVwZGF0ZUNvdW50KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIudXNlRXZlbnRCdXMoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uQXR0YWNoKENvbnRleHQgY29udGV4dCkgewogICAgICAgIHN1cGVyLm9uQXR0YWNoKGNvbnRleHQpOwogICAgICAgIEV2ZW50QnVzLmdldERlZmF1bHQoKS5yZWdpc3Rlcih0aGlzKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIG9uRGV0YWNoKCkgewogICAgICAgIHN1cGVyLm9uRGV0YWNoKCk7CiAgICAgICAgRXZlbnRCdXMuZ2V0RGVmYXVsdCgpLnVucmVnaXN0ZXIodGhpcyk7CiAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0TmV0d29yayhTdHJpbmcuZm9ybWF0KHVybFNvbWVfTGFiZWwsIG1Qcm9qZWN0T2JqZWN0LmdldElkKCksIG1lbWJlcnMudXNlcl9pZCksIFRBR19TT01FX0xBQkVMKTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudFJlcXVlc3RUYXNrQ291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0TmV0d29yayhTdHJpbmcuZm9ybWF0KHVybFNvbWVfTGFiZWwsIG1Qcm9qZWN0T2JqZWN0LmdldElkKCksIG1lbWJlcnMudXNlcl9pZCksIFRBR19TT01FX0xBQkVMKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -463,11 +475,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBAU3Vic2NyaWJlKHRocmVhZE1vZGUgPSBUaHJlYWRNb2RlLk1BSU4pCiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50UmVxdWVzdChFdmVudFJlcXVlc3RUYXNrQ291bnQgZXZlbnQpIHsKICAgICAgICBsb2FkRGF0YUNvdW50KCk7CiAgICB9Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBFdmVudFJlcXVlc3RUYXNrQ291bnQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAU3Vic2NyaWJlKHRocmVhZE1vZGUgPSBUaHJlYWRNb2RlLk1BSU4pCiAgICBwdWJsaWMgdm9pZCBvbkV2ZW50UmVxdWVzdChFdmVudFJlcXVlc3RUYXNrQ291bnQgZXZlbnQpIHsKICAgICAgICBsb2FkRGF0YUNvdW50KCk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
