@@ -64,7 +64,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/url/UrlCreate.java" timestamp="1546828210973">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/url/UrlCreate.java" timestamp="1550556958937">
         <mark key="[" line="60" column="4" />
         <mark key="]" line="60" column="9" />
         <mark key="." line="60" column="9" />
@@ -125,7 +125,6 @@
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/activity_task_add_head_edit.xml" timestamp="1546597120267">
         <mark key="[" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" timestamp="1550547056429" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectGitFragment.java" timestamp="1546827526524">
         <mark key="[" line="460" column="0" />
         <mark key="]" line="460" column="0" />
@@ -240,7 +239,7 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550547011512">
+      <file name="/Dummy.txt" timestamp="1550556959218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -261,11 +260,11 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1546828383739">
-        <mark key="[" line="701" column="0" />
-        <mark key="]" line="701" column="0" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MyApp.java" timestamp="1550557518233">
+        <mark key="[" line="700" column="51" />
+        <mark key="]" line="700" column="51" />
         <mark key="^" line="700" column="66" />
-        <mark key="." line="701" column="0" />
+        <mark key="." line="700" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/MainProjectFragment.kt" timestamp="1550548067378">
         <mark key="[" line="130" column="0" />
@@ -293,7 +292,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="857" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/Unread.java" timestamp="1550543463181" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_create.xml" timestamp="1529571732782">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="37" column="21" />
@@ -437,11 +435,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxpbmVTcGFjaW5nTXVsdGlwbGllcj0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>Double</text>
       </register>
       <register name="-" type="4">
-        <text>tip_need_userinfo</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
