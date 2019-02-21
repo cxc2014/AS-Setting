@@ -95,11 +95,11 @@
         <mark key="]" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1550560572527">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle.properties" timestamp="1550716795929">
         <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/ProjectTaskFragment.java" timestamp="1546598576049">
         <mark key="[" line="188" column="0" />
@@ -333,7 +333,6 @@
       <file name="/fragment.java" timestamp="1546590904337">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/common/model/EnterpriseAccount.java" timestamp="1550560383812" />
     </filemarks>
     <jumps>
       <jump line="1" column="115" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson3/task9/src/Task.kt" />
@@ -442,10 +441,10 @@
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>anno</text>
