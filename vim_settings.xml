@@ -38,11 +38,12 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1550561027596">
-        <mark key="[" line="72" column="26" />
-        <mark key="]" line="72" column="27" />
-        <mark key="." line="72" column="27" />
-        <mark key="^" line="60" column="38" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1550728213437">
+        <mark key="'" line="31" column="31" />
+        <mark key="[" line="73" column="39" />
+        <mark key="]" line="73" column="38" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/values/strings.xml" timestamp="1550722272403">
         <mark key="[" line="51" column="32" />
@@ -252,7 +253,7 @@
         <mark key="^" line="104" column="34" />
         <mark key="." line="104" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550724364631">
+      <file name="/Dummy.txt" timestamp="1550728234735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -350,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="115" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson3/task9/src/Task.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson5/task2/src/Task.kt" />
       <jump line="11" column="34" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson5/task3/src/Task.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/code/android/github/tinker/Kotlin Koans1/lesson5/task4/src/demo.kt" />
@@ -450,6 +450,7 @@
       <jump line="70" column="33" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/project_home_list_head_head.xml" />
       <jump line="385" column="30" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/message/NotifyListActivity.java" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/MainActivity.java" />
+      <jump line="31" column="31" filename="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -462,7 +463,7 @@
         <text>.getInstance().isP</text>
       </register>
       <register name="/" type="4">
-        <text>anno</text>
+        <text>2019</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWaWV3QnlJZAo=</text>
@@ -517,9 +518,9 @@
       </register>
     </registers>
     <search>
-      <last-search>anno</last-search>
+      <last-search>2019</last-search>
       <last-offset />
-      <last-pattern>anno</last-pattern>
+      <last-pattern>2019</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mImgBtn</last-substitute>
       <last-dir>1</last-dir>
@@ -527,7 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>AAVersion</entry>
         <entry>mImgBtn</entry>
         <entry>AUG</entry>
         <entry>can</entry>
@@ -547,6 +547,7 @@
         <entry>kapt</entry>
         <entry>annon</entry>
         <entry>anno</entry>
+        <entry>2019</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
