@@ -63,6 +63,7 @@
         <mark key="^" line="51" column="55" />
         <mark key="." line="51" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/README.md" timestamp="1550818483277" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/task/TaskDescriptionActivity.java" timestamp="1529375195345">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -138,7 +139,7 @@
         <mark key="^" line="69" column="6" />
         <mark key="." line="114" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/user/EnterpriseLoginActivity.java" timestamp="1550718466435" />
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/user/EnterpriseLoginActivity.java" timestamp="1550818301154" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/project/detail/TaskFilterFragment.java" timestamp="1546596077812">
         <mark key="[" line="239" column="37" />
         <mark key="]" line="240" column="0" />
@@ -170,6 +171,7 @@
         <mark key="]" line="40" column="41" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/network/NetworkImpl.java" timestamp="1550819207382" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/project/EnterpriseProjectFragment.java" timestamp="1550724397060">
         <mark key="[" line="154" column="47" />
         <mark key="]" line="155" column="41" />
@@ -237,6 +239,8 @@
         <mark key="]" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/network/MyAsyncHttpClient.java" timestamp="1550818390999" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/5d171c3cd5343e5997f974561abed21442273fd1/android-async-http-1.4.9-sources.jar!/com/loopj/android/http/AsyncHttpResponseHandler.java" timestamp="1550818827626" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/java/net/coding/program/search/SearchResultListFragment.java" timestamp="1531205289283">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
@@ -253,7 +257,8 @@
         <mark key="^" line="104" column="34" />
         <mark key="." line="104" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550733501193">
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/5d171c3cd5343e5997f974561abed21442273fd1/android-async-http-1.4.9-sources.jar!/com/loopj/android/http/AsyncHttpClient.java" timestamp="1550819267083" />
+      <file name="/Dummy.txt" timestamp="1550818454889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -317,7 +322,6 @@
         <mark key="." line="156" column="54" />
         <mark key="^" line="133" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/GlobalData.java" timestamp="1550717972205" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/enterprise/res/layout/init_fragment_project_create.xml" timestamp="1529571732782">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="37" column="21" />
@@ -343,7 +347,6 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/layout/fragment_main_project.xml" timestamp="1550722354619" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/gradle/wrapper/gradle-wrapper.properties" timestamp="1530522815371">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
