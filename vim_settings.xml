@@ -45,7 +45,7 @@
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/code/android/github/android-NetworkConnect/Application/src/main/java/com/example/android/networkconnect/NetworkFragment.java" timestamp="1550825892956" />
+      <file name="$USER_HOME$/Documents/code/android/github/android-NetworkConnect/Application/src/main/java/com/example/android/networkconnect/NetworkFragment.java" timestamp="1551058834933" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/main/res/values/strings.xml" timestamp="1550722272403">
         <mark key="[" line="51" column="32" />
         <mark key="]" line="51" column="92" />
@@ -235,6 +235,7 @@
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/net/URLConnection.java" timestamp="1551058894602" />
       <file name="$USER_HOME$/Documents/code/android/workspace/Coding-Enterprise-Android/app/src/main/java/net/coding/program/login/phone/Close2FAActivity.java" timestamp="1529400315105">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -291,6 +292,7 @@
         <mark key="." line="958" column="69" />
         <mark key="^" line="958" column="69" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/javax/net/ssl/HttpsURLConnection.java" timestamp="1551058873058" />
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/ui/BaseFragment.java" timestamp="1546595464785">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
