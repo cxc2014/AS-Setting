@@ -38,10 +38,10 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1550728213437">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/build.gradle" timestamp="1551066471625">
         <mark key="'" line="31" column="31" />
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="38" />
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="40" />
         <mark key="." line="73" column="38" />
         <mark key="^" line="73" column="38" />
       </file>
@@ -63,7 +63,7 @@
         <mark key="." line="369" column="0" />
         <mark key="^" line="369" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/EnterpriseApp.java" timestamp="1551065304522">
+      <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/EnterpriseApp.java" timestamp="1551066074704">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="^" line="71" column="11" />
@@ -198,10 +198,9 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/common-coding/src/main/java/net/coding/program/common/network/NetworkImpl.java" timestamp="1551063655681">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="67" column="47" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/code/company/Enterprise-Android/app/src/enterprise/java/net/coding/program/project/EnterpriseProjectFragment.java" timestamp="1551064465113">
         <mark key="[" line="154" column="47" />
@@ -297,7 +296,7 @@
         <mark key="." line="104" column="55" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/5d171c3cd5343e5997f974561abed21442273fd1/android-async-http-1.4.9-sources.jar!/com/loopj/android/http/AsyncHttpClient.java" timestamp="1550824581083" />
-      <file name="/Dummy.txt" timestamp="1551065115625">
+      <file name="/Dummy.txt" timestamp="1551066374800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -499,8 +498,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIGthcHQgIm9yZy5hbmRyb2lkYW5ub3RhdGlvbnM6YW5kcm9pZGFubm90YXRpb25zOiRBQVZlcnNpb24iCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>2.9.8.20190221.1</text>
       </register>
       <register name="-" type="4">
         <text>host.</text>
@@ -508,8 +507,8 @@
       <register name="/" type="4">
         <text>2019</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHbG9iYWwuSE9TVF9BUEkgPSBHbG9iYWwuSE9TVCArICIvYXBpIjsK</text>
+      <register name="0" type="4">
+        <text>2.9.8.20190221.1</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgIEBTZXJpYWxpemVkTmFtZSgiIikKICAgIEBFeHBvc2UK</text>
